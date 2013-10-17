@@ -2,80 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/components/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/components/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\dist\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\css\docs.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\css\pygments-manni.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\ico\apple-touch-icon-144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\ico\favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\filesaver.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\holder.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\jszip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\less.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\raw-files.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\docs-assets\js\uglify.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\carousel\carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\carousel\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\grid\grid.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\grid\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\jumbotron-narrow\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\jumbotron-narrow\jumbotron-narrow.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\jumbotron\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\jumbotron\jumbotron.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\justified-nav\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\justified-nav\justified-nav.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\navbar-fixed-top\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\navbar-fixed-top\navbar-fixed-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\navbar-static-top\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\navbar-static-top\navbar-static-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\navbar\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\navbar\navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\non-responsive\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\non-responsive\non-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\offcanvas\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\offcanvas\offcanvas.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\offcanvas\offcanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\carousel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\grid.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\jumbotron-narrow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\jumbotron.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\justified-nav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\navbar-fixed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\navbar-static.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\navbar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\non-responsive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\offcanvas.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\sign-in.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\starter-template.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\sticky-footer-navbar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\sticky-footer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\screenshots\theme.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\signin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\signin\signin.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\starter-template\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\starter-template\starter-template.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\sticky-footer-navbar\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\sticky-footer-navbar\sticky-footer-navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\sticky-footer\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\sticky-footer\sticky-footer.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\theme\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\b3\examples\theme\theme.css" afterPath="" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\b3\_\components\js\jquery-2.0.3.js" afterPath="$PROJECT_DIR$/_/components/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b2.iws" />
@@ -85,8 +13,9 @@
     <file path="$PROJECT_DIR$/examples/navbar/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382029433333" ignored="false" />
     <file path="$PROJECT_DIR$/examples/navbar-fixed-top/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382029433333" ignored="false" />
     <file path="$PROJECT_DIR$/examples/navbar-static-top/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382029433333" ignored="false" />
-    <file path="/Dummy.txt" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382043769056" ignored="false" />
+    <file path="/Dummy.txt" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382047956746" ignored="false" />
     <file path="/_custom.less" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382033310261" ignored="false" />
+    <file path="/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382048638864" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +34,17 @@
     <favorites_list name="b2" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="4" selection-start="151" selection-end="151" vertical-scroll-proportion="0.15151516">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -128,6 +67,7 @@
         <option value="$PROJECT_DIR$/_/components/less/custom.less" />
         <option value="$PROJECT_DIR$/_/components/js/custom.js" />
         <option value="$PROJECT_DIR$/_/components/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -194,24 +134,6 @@
               <option name="myItemId" value="_" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -227,29 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,6 +160,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -328,19 +229,24 @@
       <created>1382034355658</created>
       <updated>1382034355658</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file">
+      <created>1382047961872</created>
+      <updated>1382047961872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="228" y="-17" width="906" height="781" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30331755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30331755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -350,7 +256,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -398,7 +303,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="configuring prepros preprocessor to work with bootstrap3's bootstrap.less to generate bootstrap.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -413,6 +318,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="configuring prepros preprocessor to work with bootstrap3's bootstrap.less to generate bootstrap.css" />
+    <MESSAGE value="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -470,6 +376,13 @@
     <entry file="file://$PROJECT_DIR$/_/components/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="387" selection-end="387" vertical-scroll-proportion="0.39534885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="151" selection-end="151" vertical-scroll-proportion="0.15151516">
           <folding />
         </state>
       </provider>
