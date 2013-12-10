@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="master of my bootstrap setup with less files">
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bootstrap3\index.html" afterPath="$PROJECT_DIR$/index.php" />
+    <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b2.iws" />
@@ -12,11 +12,12 @@
     <file path="$PROJECT_DIR$/examples/navbar/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382029433333" ignored="false" />
     <file path="$PROJECT_DIR$/examples/navbar-fixed-top/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382029433333" ignored="false" />
     <file path="$PROJECT_DIR$/examples/navbar-static-top/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382029433333" ignored="false" />
-    <file path="/Dummy.txt" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1386675140639" ignored="false" />
+    <file path="/Dummy.txt" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1386675565565" ignored="false" />
     <file path="/_custom.less" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1382033310261" ignored="false" />
     <file path="/index.html" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1386672593778" ignored="false" />
     <file path="/dummy.xml" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1386672594853" ignored="false" />
     <file path="/variables.less" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1386673168592" ignored="false" />
+    <file path="/index.php" changelist="b37e10e1-b4f9-404a-be1c-31514a152713" time="1386675974660" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +37,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding>
-                <marker date="1386673393399" expanded="true" signature="21:599" placeholder="..." />
-                <marker date="1386673393399" expanded="true" signature="28:319" placeholder="..." />
-                <marker date="1386673393399" expanded="true" signature="326:591" placeholder="..." />
-              </folding>
+            <state line="14" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.64850134">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="673" selection-end="673" vertical-scroll-proportion="0.78532606">
+            <state line="20" column="16" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,13 +80,14 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_/components/less/variables.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-3" />
     <option name="y" value="-16" />
-    <option name="width" value="646" />
+    <option name="width" value="901" />
     <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -133,38 +131,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,20 +227,24 @@
       <created>1386672159762</created>
       <updated>1386672159762</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cleaned working directory">
+      <created>1386675573693</created>
+      <updated>1386675573693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-16" width="646" height="786" extended-state="0" />
-    <editor active="false" />
+    <frame x="-3" y="-16" width="901" height="786" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31537244" sideWeight="0.9882199" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3510274" sideWeight="0.67161715" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2443385" sideWeight="0.6846276" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -331,7 +301,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="master of my bootstrap setup with less files" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned working directory" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -348,6 +318,7 @@
     <MESSAGE value="configuring prepros preprocessor to work with bootstrap3's bootstrap.less to generate bootstrap.css" />
     <MESSAGE value="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file" />
     <MESSAGE value="master of my bootstrap setup with less files" />
+    <MESSAGE value="cleaned working directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -397,20 +368,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1386673393399" expanded="true" signature="21:599" placeholder="..." />
-            <marker date="1386673393399" expanded="true" signature="28:319" placeholder="..." />
-            <marker date="1386673393399" expanded="true" signature="326:591" placeholder="..." />
-          </folding>
+        <state line="20" column="16" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="673" selection-end="673" vertical-scroll-proportion="0.78532606">
+        <state line="14" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.64850134">
           <folding />
         </state>
       </provider>
