@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="01_skeleton_html_setup">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/css/Colossalis Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/PSD/corporate.psd" />
+    <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th10.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/bootstrap.css" afterPath="$PROJECT_DIR$/_/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/custom.css" afterPath="$PROJECT_DIR$/_/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/custom.less" afterPath="$PROJECT_DIR$/_/components/less/custom.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/navbar.less" afterPath="$PROJECT_DIR$/_/components/less/navbar.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/variables.less" afterPath="$PROJECT_DIR$/_/components/less/variables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -32,19 +41,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="26" selection-start="2197" selection-end="2197" vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="2397">
+            <state line="143" column="17" selection-start="2049" selection-end="2049" vertical-scroll-proportion="4.1986184" vertical-offset="0" max-vertical-offset="3621">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="navbar.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/less/navbar.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="354" column="23" selection-start="7992" selection-end="7992" vertical-scroll-proportion="-2.0" vertical-offset="5916" max-vertical-offset="10676">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="38" selection-start="2551" selection-end="2551" vertical-scroll-proportion="0.014900662" vertical-offset="1283" max-vertical-offset="1887">
+            <state line="210" column="34" selection-start="8182" selection-end="8182" vertical-scroll-proportion="-25.846153" vertical-offset="2898" max-vertical-offset="4318">
               <folding />
             </state>
           </provider>
@@ -53,7 +71,7 @@
       <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="670" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="10982">
+            <state line="289" column="44" selection-start="8682" selection-end="8682" vertical-scroll-proportion="-6.627451" vertical-offset="4575" max-vertical-offset="11356">
               <folding />
             </state>
           </provider>
@@ -86,16 +104,17 @@
         <option value="$PROJECT_DIR$/_/components/js/custom.js" />
         <option value="$PROJECT_DIR$/_/components/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_/components/less/navbar.less" />
         <option value="$PROJECT_DIR$/_/components/less/variables.less" />
-        <option value="$PROJECT_DIR$/_/components/less/custom.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_/components/less/custom.less" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="3" />
+    <option name="y" value="-2" />
     <option name="width" value="1296" />
     <option name="height" value="786" />
   </component>
@@ -125,6 +144,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,9 +163,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="b2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="corporate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,11 +225,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\corporate\_\img" />
       <recent name="C:\xampp\htdocs\corporate\_\PSD" />
       <recent name="C:\xampp\htdocs\corporate\_\css" />
       <recent name="C:\xampp\htdocs\b3\_\components\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\corporate\_\img\thumbnails" />
       <recent name="C:\xampp\htdocs\b3" />
       <recent name="C:\xampp\htdocs\b3\_\components\js" />
       <recent name="C:\xampp\htdocs\b2\_" />
@@ -255,11 +290,15 @@
       <created>1398156202185</created>
       <updated>1398156202185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="02_header_&amp;_slider_created_&amp;styled">
+      <created>1398952861656</created>
+      <updated>1398952861656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="0" />
+    <frame x="3" y="-2" width="1296" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -296,19 +335,13 @@
     <MESSAGE value="configuring prepros preprocessor to work with bootstrap3's bootstrap.less to generate bootstrap.css" />
     <MESSAGE value="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file" />
     <MESSAGE value="01_skeleton_html_setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="01_skeleton_html_setup" />
+    <MESSAGE value="02_header_&amp;_slider_created_&amp;styled" />
+    <option name="LAST_COMMIT_MESSAGE" value="02_header_&amp;_slider_created_&amp;styled" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="10" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1802" />
@@ -375,21 +408,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="670" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="10982">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="26" selection-start="2197" selection-end="2197" vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="2397">
+        <state line="289" column="44" selection-start="8682" selection-end="8682" vertical-scroll-proportion="-6.627451" vertical-offset="4575" max-vertical-offset="11356">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="38" selection-start="2551" selection-end="2551" vertical-scroll-proportion="0.014900662" vertical-offset="1283" max-vertical-offset="1887">
+        <state line="210" column="34" selection-start="8182" selection-end="8182" vertical-scroll-proportion="-25.846153" vertical-offset="2898" max-vertical-offset="4318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/navbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="354" column="23" selection-start="7992" selection-end="7992" vertical-scroll-proportion="-2.0" vertical-offset="5916" max-vertical-offset="10676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="17" selection-start="2049" selection-end="2049" vertical-scroll-proportion="4.1986184" vertical-offset="0" max-vertical-offset="3621">
           <folding />
         </state>
       </provider>

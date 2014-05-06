@@ -8,6 +8,7 @@
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/custom.css" rel="stylesheet" media="screen">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
@@ -16,7 +17,7 @@
 
 <header>
     <div class="row">
-        <div class="col col-lg-5">
+        <div class="col col-lg-7">
             <div class="logo">
                 <h2>BD</h2>
 
@@ -25,9 +26,9 @@
         </div>
 
 
-        <div class=" col col-lg-push-4 col-lg-4">
+        <div class="col col-lg-push-1 col-lg-4">
             <div class="social">
-                <p>join the conversation</p>
+                <p>Join the conversation</p>
                 <ul>
                     <li><a href=""><i class="fa fa-facebook-square"></i></a></li>
                     <li><a href=""><i class="fa fa-twitter-square"></i></a></li>
@@ -38,20 +39,43 @@
         </div>
     </div><!--  end of .row  -->
 
-    <nav>
-        <ul class="main-nav">
-            <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
-            <li><a href="#"><i class="fa fa-users"></i> About Us</a></li>
-            <li><a href="#"><i class="fa fa-wrench"></i> Services</a></li>
-            <li><a href="#"><i class="fa fa-pencil"></i> Blog</a></li>
-            <li><a href="#"><i class="fa fa-envelope"></i> Contact</a></li>
-        </ul>
+    <nav class="navbar navbar-default" role="navigation">
 
-        <form>
-            <span class="search"><input type="text" placeholder="search"> <a href="#"><i class="fa fa-search"></i></a></span>
-        </form>
-    </nav>
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
 
+        <div id="collapse" class="collapse navbar-collapse">
+
+            <ul class="main-nav nav navbar-nav">
+                <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+                <li><a href="#"><i class="fa fa-users"></i> About Us</a></li>
+                <li><a href="#"><i class="fa fa-wrench"></i> Services</a></li>
+                <li><a href="#"><i class="fa fa-pencil"></i> Blog</a></li>
+                <li><a href="#"><i class="fa fa-envelope"></i> Contact</a></li>
+            </ul>
+
+
+            <form class="navbar-form navbar-right" role="search">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search">
+                </div>
+                <a href="#"><i class="fa fa-search fa-2x"></i></a>
+            </form>
+        </div>
+
+
+
+
+    </nav> <!--end of .nav-->
+
+
+</header>
 
     <div id="art" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
@@ -91,11 +115,130 @@
         </a>
     </div><!-- end of art carousel -->
 
-</header>
+    <div class="row">
+        <div class="col col-lg-8">
+            <h3>Who We Are</h3>
+            <p>orem Ipsum is simply dummy text of the printing and typesetting industry.
+                Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s </p>
+            <p>
+                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                It has survived not only five centuries.</p>
+
+            <p> but also the leap into electronic typesetting, remaining essentially unchanged.
+                It was popularised in the 1960s with the release.</p>
+        </div>
+        <div class="col col-lg-4">
+            <h3>From The Blog</h3>
+            <ul class="fa-ul">
+                <li><i class="fa-li fa fa-pencil"></i><strong>Lorem Ipsum has been the industry</strong> <br/>
+                    this is how we do things in this hood we live in.</li>
+                <li><i class="fa-li fa fa-pencil"></i><strong>Lorem Ipsum has been the industry</strong> <br/>
+                    this is how we do things in this hood we live in.</li>
+                <li><i class="fa-li fa fa-pencil"></i><strong>Lorem Ipsum has been the industry</strong> <br/>
+                    this is how we do things in this hood we live in.</li>
+            </ul>
+        </div>
+    </div> <!--end of .row-->
+
+    <h3 class="team">Meet The Team</h3>
+
+    <div class="row">
+        <div class="col col-lg-3 quarter">
+            <div class="image-container">
+                <img src="http://placehold.it/270x160" alt="">
+                <div class="image-caption">
+                    <strong>Mike Watson</strong>
+                    <p>Senior Developer</p>
+                </div> <!--end of .image-caption-->
+            </div> <!--end of .image-container-->
+
+            <p>lorem ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of
+                type.</p>
+        </div><!--end of .col-lg-3-->
+
+        <div class="col col-lg-3 quarter">
+            <div class="image-container">
+                <img src="http://placehold.it/270x160" alt="">
+                <div class="image-caption">
+                    <strong>Sherry Jenix</strong>
+                    <p>Web Designer</p>
+                </div> <!--end of .image-caption-->
+            </div> <!--end of .image-container-->
+
+            <p>lorem ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of
+                type.</p>
+        </div><!--end of .col-lg-3-->
+
+        <div class="col col-lg-3 quarter">
+            <div class="image-container">
+                <img src="http://placehold.it/270x160" alt="">
+                <div class="image-caption">
+                    <strong>Alex Valle</strong>
+                    <p>Front-End Developer</p>
+                </div> <!--end of .image-caption-->
+            </div> <!--end of .image-container-->
+
+            <p>lorem ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of
+                type.</p>
+        </div><!--end of .col-lg-3-->
+
+        <div class="col col-lg-3 quarter">
+            <div class="image-container">
+                <img src="http://placehold.it/270x160" alt="">
+                <div class="image-caption">
+                    <strong>Mike Watson</strong>
+                    <p>Senior Developer</p>
+                </div> <!--end of .image-caption-->
+            </div> <!--end of .image-container-->
+
+            <p>lorem ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of
+                type.</p>
+        </div><!--end of .col-lg-3-->
+        
+    </div>
+
 
 
 
 </div><!--  end of container  -->
+
+<footer>
+    <div class="container">
+        <div class="row footer-sub">
+            <div class="col col-lg-4">
+                <h3>Get in Touch</h3>
+
+                <p>
+                    <i class="fa fa-map-marker"></i> 239a st albans road WD24 5BQ
+                </p>
+                <p>
+                    <i class="fa fa-envelope"></i> tsola2002@yahoo.co.uk
+                </p>
+            </div> <!--  end of .col-lg-4  -->
+            <div class="col col-lg-8">
+                <h3>Photo Stream</h3>
+                <ul class="thumbnails">
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th01.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th02.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th03.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th04.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th05.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th06.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th07.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th08.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th09.jpg" alt=""/></a></li>
+                    <li><a alt="picture" href=""><img src="_/img/thumbnails/th10.jpg" alt=""/></a></li>
+                </ul>
+            </div> <!--  end of .col-lg-8  -->
+        </div> <!--  end of .row  -->
+        <div class="col-lg-12 copyright">&copy; copyright 2014 by Omatsola Isaac Sobotie. All Rights Reserved</div>
+    </div> <!--  end of .footer-container  -->
+</footer>
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="_/js/bootstrap.js"></script>
 

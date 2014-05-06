@@ -25,6 +25,28 @@
 @brand-info:            #5bc0de;
 @logo-blue:            #3694b7;
 
+//my extra colors
+
+//my custom colors
+//my custom colors
+@text-black: #2b2b2b;
+@link-red: #d92328;
+@light-text: #7a7a7a;
+@darkbg: #252e28;
+@lightgrey: #f7f7f7;
+@error-red: #d92328;
+@bussiness-orange: #ec8e08;
+@light-blue: #3694b7;
+@dark-blue: #173a4e;
+@mid-blue: #5a6d73;
+@beige: #fff7e7;
+@brand-primary: #428bca;
+@logo-blue:   #3694b7;
+@strange-grey: #a0a0a0;
+@link-grey: #777;
+@footer-bg: #292c31;
+
+
 // Scaffolding
 // -------------------------
 
@@ -42,7 +64,7 @@
 
 
 
-@font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-family-sans-serif:  "Open Sans", sans-serif;
 @font-family-serif:       Georgia, "Times New Roman", Times, serif;
 @font-family-monospace:   Monaco, Menlo, Consolas, "Courier New", monospace;
 @font-family-base:        @font-family-sans-serif;
@@ -250,7 +272,7 @@
 // Padding, to be divided by two and applied to the left and right of all columns
 @grid-gutter-width:         30px;
 // Point at which the navbar stops collapsing
-@grid-float-breakpoint:     @screen-sm-min;
+@grid-float-breakpoint:     @screen-lg-min;
 
 
 // Navbar
@@ -259,13 +281,13 @@
 // Basics of a navbar
 @navbar-height:                    50px;
 @navbar-margin-bottom:             @line-height-computed;
-@navbar-border-radius:             @border-radius-base;
+@navbar-border-radius:             0;
 @navbar-padding-horizontal:        floor(@grid-gutter-width / 2);
 @navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
 
 @navbar-default-color:             #777;
-@navbar-default-bg:                #f8f8f8;
-@navbar-default-border:            darken(@navbar-default-bg, 6.5%);
+@navbar-default-bg:                @body-bg;
+@navbar-default-border:           @link-grey;
 
 // Navbar links
 @navbar-default-link-color:                #777;

@@ -253,7 +253,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
@@ -525,7 +525,7 @@ dt {
 dd {
   margin-left: 0;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .dl-horizontal dt {
     float: left;
     width: 160px;
@@ -2954,7 +2954,7 @@ input[type="button"].btn-block {
   bottom: 100%;
   margin-bottom: 1px;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-right .dropdown-menu {
     right: 0;
     left: auto;
@@ -3569,7 +3569,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
   position: relative;
   z-index: 1000;
   min-height: 50px;
-  margin-bottom: 20px;
   border: 1px solid transparent;
 }
 .navbar:before,
@@ -3596,9 +3595,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar:after {
   clear: both;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar {
-    border-radius: 4px;
+    border-radius: 0;
   }
 }
 .navbar-header:before,
@@ -3625,7 +3624,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-header:after {
   clear: both;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-header {
     float: left;
   }
@@ -3666,7 +3665,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-collapse.in {
   overflow-y: auto;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-collapse {
     width: auto;
     border-top: 0;
@@ -3696,7 +3695,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-right: -15px;
   margin-left: -15px;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .container > .navbar-header,
   .container > .navbar-collapse {
     margin-right: 0;
@@ -3706,7 +3705,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-static-top {
   border-width: 0 0 1px;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-static-top {
     border-radius: 0;
   }
@@ -3718,7 +3717,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   left: 0;
   border-width: 0 0 1px;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-fixed-top,
   .navbar-fixed-bottom {
     border-radius: 0;
@@ -3742,7 +3741,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-brand:focus {
   text-decoration: none;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar > .container .navbar-brand {
     margin-left: -15px;
   }
@@ -3767,7 +3766,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 4px;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-toggle {
     display: none;
   }
@@ -3802,7 +3801,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
     background-image: none;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-nav {
     float: left;
     margin: 0;
@@ -3815,7 +3814,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
     padding-bottom: 15px;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-left {
     float: left !important;
   }
@@ -3861,7 +3860,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
     margin-bottom: 5px;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-form {
     width: auto;
     border: 0;
@@ -3896,15 +3895,15 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-top: 15px;
   margin-bottom: 15px;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-text {
     margin-left: 15px;
     margin-right: 15px;
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+  background-color: #f7f3f7;
+  border-color: #777777;
 }
 .navbar-default .navbar-brand {
   color: #777777;
@@ -3929,7 +3928,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #555555;
-  background-color: #e7e7e7;
+  background-color: #eadfea;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -3949,7 +3948,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #e7e7e7;
+  border-color: #777777;
 }
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
@@ -3959,7 +3958,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #e7e7e7;
+  background-color: #eadfea;
   color: #555555;
 }
 .navbar-default .navbar-nav > .open > a .caret,
@@ -3985,7 +3984,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #555555;
-    background-color: #e7e7e7;
+    background-color: #eadfea;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
