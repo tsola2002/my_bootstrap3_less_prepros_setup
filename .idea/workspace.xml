@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thumbnails/th10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/bootstrap.css" afterPath="$PROJECT_DIR$/_/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/custom.css" afterPath="$PROJECT_DIR$/_/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/custom.less" afterPath="$PROJECT_DIR$/_/components/less/custom.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about_us.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/navbar.less" afterPath="$PROJECT_DIR$/_/components/less/navbar.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/variables.less" afterPath="$PROJECT_DIR$/_/components/less/variables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b2.iws" />
@@ -41,37 +30,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom.less" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="17" selection-start="2049" selection-end="2049" vertical-scroll-proportion="4.1986184" vertical-offset="0" max-vertical-offset="3621">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/less/navbar.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="354" column="23" selection-start="7992" selection-end="7992" vertical-scroll-proportion="-2.0" vertical-offset="5916" max-vertical-offset="10676">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="210" column="34" selection-start="8182" selection-end="8182" vertical-scroll-proportion="-25.846153" vertical-offset="2898" max-vertical-offset="4318">
+            <state line="60" column="17" selection-start="1827" selection-end="2318" vertical-scroll-proportion="0.0" vertical-offset="807" max-vertical-offset="4318">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
+      <file leaf-file-name="about_us.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="289" column="44" selection-start="8682" selection-end="8682" vertical-scroll-proportion="-6.627451" vertical-offset="4575" max-vertical-offset="11356">
+            <state line="60" column="17" selection-start="2318" selection-end="2318" vertical-scroll-proportion="1.8681319" vertical-offset="0" max-vertical-offset="1955">
+              <folding>
+                <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blog.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="17" selection-start="2310" selection-end="2310" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2482">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="17" selection-start="2310" selection-end="2310" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="2482">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="17" selection-start="2314" selection-end="2314" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="2482">
               <folding />
             </state>
           </provider>
@@ -106,17 +106,21 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_/components/less/navbar.less" />
         <option value="$PROJECT_DIR$/_/components/less/variables.less" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_/components/less/custom.less" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Blog.html" />
+        <option value="$PROJECT_DIR$/Contact.html" />
+        <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/about_us.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="-2" />
+    <option name="x" value="2" />
+    <option name="y" value="25" />
     <option name="width" value="1296" />
-    <option name="height" value="786" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -225,6 +229,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\corporate" />
       <recent name="C:\xampp\htdocs\corporate\_\img" />
       <recent name="C:\xampp\htdocs\corporate\_\PSD" />
       <recent name="C:\xampp\htdocs\corporate\_\css" />
@@ -298,8 +303,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="-2" width="1296" height="786" extended-state="0" />
-    <editor active="true" />
+    <frame x="2" y="25" width="1296" height="728" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -307,7 +312,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21328124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21328124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -342,30 +347,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="10" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1802" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/alerts.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-155.96095" vertical-offset="0" max-vertical-offset="0" />
@@ -408,29 +389,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="289" column="44" selection-start="8682" selection-end="8682" vertical-scroll-proportion="-6.627451" vertical-offset="4575" max-vertical-offset="11356">
+        <state line="289" column="44" selection-start="8682" selection-end="8682" vertical-scroll-proportion="0.0" vertical-offset="4575" max-vertical-offset="11356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/navbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="354" column="23" selection-start="7992" selection-end="7992" vertical-scroll-proportion="0.0" vertical-offset="5916" max-vertical-offset="10676" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="17" selection-start="2049" selection-end="2049" vertical-scroll-proportion="-0.0" vertical-offset="2431" max-vertical-offset="3621" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="17" selection-start="2310" selection-end="2310" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="17" selection-start="2310" selection-end="2310" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="2482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="17" selection-start="2314" selection-end="2314" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="2482">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="210" column="34" selection-start="8182" selection-end="8182" vertical-scroll-proportion="-25.846153" vertical-offset="2898" max-vertical-offset="4318">
+        <state line="60" column="17" selection-start="1827" selection-end="2318" vertical-scroll-proportion="0.0" vertical-offset="807" max-vertical-offset="4318">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/navbar.less">
+    <entry file="file://$PROJECT_DIR$/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="354" column="23" selection-start="7992" selection-end="7992" vertical-scroll-proportion="-2.0" vertical-offset="5916" max-vertical-offset="10676">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="17" selection-start="2049" selection-end="2049" vertical-scroll-proportion="4.1986184" vertical-offset="0" max-vertical-offset="3621">
-          <folding />
+        <state line="60" column="17" selection-start="2318" selection-end="2318" vertical-scroll-proportion="1.8681319" vertical-offset="0" max-vertical-offset="1955">
+          <folding>
+            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
