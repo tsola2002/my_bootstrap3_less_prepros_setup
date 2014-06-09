@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/laptop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/payment-methods.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/slider_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signin.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/custom.css" afterPath="$PROJECT_DIR$/_/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/custom.less" afterPath="$PROJECT_DIR$/_/components/less/custom.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -34,16 +32,25 @@
       <file leaf-file-name="custom.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="206" column="18" selection-start="2763" selection-end="2763" vertical-scroll-proportion="-7.9411764" vertical-offset="3097" max-vertical-offset="3791">
+            <state line="290" column="1" selection-start="4016" selection-end="4016" vertical-scroll-proportion="-9.019608" vertical-offset="4470" max-vertical-offset="5202">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="signin.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/signin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="35" selection-start="4242" selection-end="4242" vertical-scroll-proportion="0.8274112" vertical-offset="1024" max-vertical-offset="3196">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="305" column="36" selection-start="15057" selection-end="15057" vertical-scroll-proportion="9.37613" vertical-offset="0" max-vertical-offset="5474">
+            <state line="12" column="7" selection-start="563" selection-end="563" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="5474">
               <folding />
             </state>
           </provider>
@@ -77,17 +84,18 @@
         <option value="$PROJECT_DIR$/_/components/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_/components/less/variables.less" />
-        <option value="$PROJECT_DIR$/_/components/less/custom.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_/components/less/custom.less" />
+        <option value="$PROJECT_DIR$/signin.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="144" />
-    <option name="y" value="-15" />
-    <option name="width" value="1016" />
-    <option name="height" value="748" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -115,6 +123,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,27 +156,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corporate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,6 +204,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\corporate" />
       <recent name="C:\xampp\htdocs\corporate\_\img" />
       <recent name="C:\xampp\htdocs\b3\_\components\js" />
     </key>
@@ -273,11 +264,15 @@
       <created>1382047961872</created>
       <updated>1382047961872</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="index page completed">
+      <created>1402247809078</created>
+      <updated>1402247809078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="144" y="-15" width="1016" height="748" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -286,7 +281,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.284" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.221875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -313,19 +308,13 @@
     </option>
     <MESSAGE value="configuring prepros preprocessor to work with bootstrap3's bootstrap.less to generate bootstrap.css" />
     <MESSAGE value="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file" />
-    <option name="LAST_COMMIT_MESSAGE" value="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file" />
+    <MESSAGE value="index page completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="index page completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="10" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1802" />
@@ -382,16 +371,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="24" selection-start="672" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="11067">
-          <folding />
-        </state>
+        <state line="32" column="24" selection-start="672" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="11067" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1513">
-          <folding />
-        </state>
+        <state line="40" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1513" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/img/slide1.jpg">
@@ -399,16 +384,23 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="18" selection-start="2763" selection-end="2763" vertical-scroll-proportion="-7.9411764" vertical-offset="3097" max-vertical-offset="3791">
+        <state line="12" column="7" selection-start="563" selection-end="563" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="5474">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="305" column="36" selection-start="15057" selection-end="15057" vertical-scroll-proportion="9.37613" vertical-offset="0" max-vertical-offset="5474">
+        <state line="290" column="1" selection-start="4016" selection-end="4016" vertical-scroll-proportion="-9.019608" vertical-offset="4470" max-vertical-offset="5202">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="35" selection-start="4242" selection-end="4242" vertical-scroll-proportion="0.8274112" vertical-offset="1024" max-vertical-offset="3196">
           <folding />
         </state>
       </provider>
