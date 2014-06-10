@@ -146,6 +146,40 @@
   -webkit-border-radius: 10px;
   color: #8e939a;
 }
+/**********************************************
+        NEW ACCOUNT PAGE
+***********************************************/
+#new-account {
+  margin: 0 auto 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  color: #2e373f;
+}
+#new-account h1 {
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+#new-account label {
+  display: block;
+  margin-bottom: 5px;
+}
+#new-account p {
+  font-size: 12px;
+}
+#new-account p input {
+  width: 300px;
+  border: 1px solid #eeeeee;
+  padding: 10px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+#new-account .required-field {
+  color: #2ecc71;
+}
 /*FOOTER */
 footer h4 {
   color: #c3c3c3;
