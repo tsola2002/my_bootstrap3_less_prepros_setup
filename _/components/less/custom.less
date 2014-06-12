@@ -8,7 +8,6 @@
 @border: #eeeeee;
 @very-light-bg: #f6f6f6;
 @darkish-black: #2e373f;
-@very-light-bg: #f6f6f6;
 
 
 /*HEADER SECTION*/
@@ -56,7 +55,22 @@
 
 /*product search form*/
 
+#action-bar .search-form p input{
 
+  border: 1px solid @border;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  color: @light-text;
+  padding: 5px 4px 5px 24px;
+  margin-left: -28px;
+}
+
+#action-bar .search-form form i, {
+  position: relative;
+  left: -4px;
+  color: @light-text;
+}
 
 
 
@@ -209,34 +223,17 @@
 #new-account {
   margin: 0 auto 30px auto;
   padding: 20px;
-  border-radius: 10px;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
   color: @darkish-black;
 }
 
 #new-account h1{
-  font-size: 16px;
-  font-weight: normal;
+//  font-size: 16px;
+  font-weight: lighter;
   margin-bottom: 15px;
 }
 
-#new-account label {
-  display: block;
-  margin-bottom: 5px;
-}
-
-#new-account p {
-  font-size: 12px;
-}
-
-#new-account p input {
-  width: 300px;
-  border: 1px solid @border;
-  padding: 10px;
-  border-radius: 10px;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
+#new-account label{
+  font-weight: lighter;
 }
 
 #new-account .required-field {
@@ -245,9 +242,95 @@
 
 
 
+/* ============================================================================
+   MY ACCOUNT LINKS
+   ============================================================================ */
+
+#account {
+
+  border-right: 1px solid @border;
+  text-align: left;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+
+  h3{
+    color: @light-text;
+  }
+
+  ul{
+    margin-left: 20px;
+    color: @link-green;
+  }
+
+  a{
+
+    &:hover {
+      color: @link-green;
+     }
+  }
+}
 
 
+/* ============================================================================
+   ORDER DETAILS
+   ============================================================================ */
 
+#order-details {
+  text-align: left;
+  margin-bottom: 60px;
+  padding-left: 20px;
+}
+
+#order-details {
+
+  h1{
+    color: @darkish-black;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    font-size: 24px
+  }
+
+  h2{
+    color: @darkish-black;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 16px;
+    background: @very-light-bg;
+    padding: 15px;
+  }
+
+  p{
+    color: @dark-text;
+    margin-left: 50px;
+  }
+
+  table {
+    color: @dark-text;
+    margin-bottom: 40px;
+    background-color: #fff;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border: 1px solid @border;
+
+    th{
+      padding: 20px;
+    }
+
+    td{
+      padding: 10px 20px;
+    }
+  }
+
+}
+
+.total {
+  text-align: right;
+  span{
+      font-weight: bold;
+  }
+}
 
 
 
@@ -324,6 +407,17 @@ footer #connect ul {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   box-shadow: 0px 5px 0px @link-green;
+  text-decoration: none;
+}
+
+.tertiary-btn {
+  background-color: #f6f6f6;
+  color: #5f5e5e;
+  padding: 10px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  box-shadow: 0px 5px 0px #b8b8b8;
   text-decoration: none;
 }
 

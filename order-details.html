@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Gadget World - New Account</title>
+    <title>Gadget World - Order Details</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Bootstrap -->
@@ -12,7 +12,7 @@
 
 </head>
 <body>
-            <section id="top-area">
+            <section id="top-area" class="row">
                 <p>Phone orders 0800 5664546 | Email Us: <a href="">tsola2002@yahoo.co.uk</a></p>
 
 
@@ -76,135 +76,64 @@
 
             <div class="extra"></div>
 
-            <div id="main-content" class="container">
-                <section id="new-account">
-                    <h1>Create New Account</h1>
-                    <div id="layout" class="row">
+            <div id="main-content" class="row container">
+                <aside id="account" class="col col-lg-3">
+                   <h3>MY ACCOUNT</h3>
+                    <ul class="fa-ul">
+                        <li><i class="fa-li fa fa-chevron-right"></i><a href="#">My Account</a></li>
+                        <li><i class="fa-li fa fa-chevron-right"></i><a href="#">Order History</a></li>
+                        <li><i class="fa-li fa fa-chevron-right"></i><a href="#">Wishlist</a></li>
+                        <li><i class="fa-li fa fa-chevron-right"></i><a href="#">Sign Out</a></li>
+                    </ul>
+                </aside><!--  end of aside  -->
 
-
-                            <form action="#" method="post" role="form">
-                                <div class="col col-lg-4">
-
-                                    <div class="form-group">
-                                        <label for="firstname">
-                                            <span class="required-field">*</span>FIRST NAME
-                                        </label>
-                                        <input type="text" class="form-control" id="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="lastname">
-                                            <span class="required-field">*</span> LAST NAME:
-                                        </label>
-                                        <input type="text" class="form-control" id="lastname" name="lastname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="">
-                                            <span class="required-field">*</span> EMAIL:
-                                        </label>
-                                        <input type="text" class="form-control" id="" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="">
-                                            <span class="required-field">*</span> CONFIRM EMAIL:
-                                        </label>
-                                        <input type="text" class="form-control" id="" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="">
-                                            <span class="required-field">*</span> PASSWORD:
-                                        </label>
-                                        <input type="text" class="form-control" id="" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="">
-                                            <span class="required-field">*</span> CONFIRM PASSWORD:
-                                        </label>
-                                        <input type="text" class="form-control" id="" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="">
-                                            <span class="required-field">*</span> PHONE:
-                                        </label>
-                                        <input type="text" class="form-control" id="" name="firstname" required>
-                                    </div>
-
-                                </div><!--  end of left col-lg-4  -->
-
-                                <div class="col col-lg-4">
-                                    <div class="form-group">
-                                        <label for="firstname">
-                                            <span class="required-field">*</span> COMPANY:
-                                        </label>
-                                        <input type="text" class="form-control" id="firstname" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="firstname">
-                                            <span class="required-field">*</span> ADDRESS:
-                                        </label>
-                                        <input type="text" class="form-control" id="firstname" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="firstname">
-                                            <span class="required-field">*</span> CITY:
-                                        </label>
-                                        <input type="text" class="form-control" id="firstname" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="firstname">
-                                            <span class="required-field">*</span> POSTAL CODE:
-                                        </label>
-                                        <input type="text" class="form-control" id="firstname" name="firstname" required>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="firstname">
-                                            <span class="required-field">*</span> COUNTRY:
-                                        </label>
-                                        <select class="form-control">
-                                            <option>Select a value</option>
-                                            <option>United Kingdom</option>
-                                            <option>United States</option>
-                                        </select>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="firstname">
-                                            <span class="required-field">*</span> STATE/REGION:
-                                        </label>
-                                        <select class="form-control">
-                                            <option>Select a value</option>
-                                            <option>East Midlands</option>
-                                            <option>West Midlands</option>
-                                        </select>
-                                    </div>
-
-
-                                </div><!--  end of right col-lg-4  -->
-
-                                <div class="col col-lg-4"></div>
-
-
-
-
-                    </div><!--  end of #new-account .row  -->
-                    <p>Fields marked with <span class="required-field">*</span> are required.</p>
-                    <hr />
-                    <input type="submit" value="CREATE NEW ACCOUNT" class="default-btn">
-                    </form><!--  end of form  -->
-
-                </section>
-            </div><!--  end of .main-content .container  -->
-
-
+                <div id="order-details" class="col col-lg-9">
+                    <h1>Order Details</h1>
+                    <h2>Order #323232</h2>
+                    <p> Sales Consultant: Omatsola <br/>
+                        Invoice Number #: 673323232 <br/>
+                        Date: 03/24/2013 <br/>
+                        Warranty Certificate: JHD23232
+                    </p>
+                    <h2>Buyer Information</h2>
+                    <p>
+                        Name: John Doe<br />
+                        Phone: 555-555-5555<br />
+                        Email: john@doe.com
+                    </p>
+                    <h2>Products</h2>
+                    <table class="table">
+                        <tr>
+                            <th>#</th>
+                            <th>Product Name</th>
+                            <th>Unit Price</th>
+                            <th>Quantity</th>
+                            <th>Subtotal</th>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>Product Name</td>
+                            <td>£400</td>
+                            <td>1</td>
+                            <td>£400</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Product Name</td>
+                            <td>£400</td>
+                            <td>2</td>
+                            <td>£800</td>
+                        </tr>
+                        <tr class="total">
+                            <td colspan="5">
+                                Subtotal: £1200<br />
+                                <span>TOTAL: £1200</span>
+                            </td>
+                        </tr>
+                    </table>
+                    <a href="#" class="tertiary-btn pull-right">BACK TO ORDER HISTORY</a>
+                </div><!--  end of #rder-details  -->
+            </div><!--  end of #main-content  -->
 
             <!--  FOOTER SECTION  -->
             <footer class="container">
