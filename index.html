@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Gadget World</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
@@ -13,9 +14,12 @@
 </head>
 <body>
             <section id="top-area" class="row">
-                <p>Phone orders 0800 5664546 | Email Us: <a href="">tsola2002@yahoo.co.uk</a></p>
+                <div class="col col-lg-7">
+                   <h5>Phone orders 0800 5664546 | Email Us: <a href="">tsola2002@yahoo.co.uk</a></h5>
+                </div>
+                <div class="col col-lg-5">
 
-
+                </div>
 
             </section><!--  end of .top-area  -->
 
@@ -24,7 +28,7 @@
 
                     <section id="action-bar" class="row">
                         <div class="logo col col-lg-3">
-                            <a href=""><h1><span id="logo-accent">G</span>adget World</h1></a>
+                            <a href=""><h1><span class="logo-accent">G</span>adget World</h1></a>
                         </div>
                         <div class="list col col-lg-2 col-md-3">
                             <nav>
@@ -138,8 +142,8 @@
                 <h2>Featured</h2>
                 <hr/>
                 <div id="products" class="row">
-                    <div id="product" class="col col-lg-3">
-                        <a href="#"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
+                    <div class="product col col-lg-3">
+                        <a href="#macbookpro" data-toggle="modal"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
 
                         <h3><a href="#">This is the Product Title</a></h3>
 
@@ -148,7 +152,7 @@
                         <h5>Availability: <span class="instock">In Stock</span></h5>
 
                         <p>
-                            <a href="#" class="cart-btn">
+                            <a href="" class="cart-btn">
                                 <span class="price">$499.08</span>
                                 <i class="fa fa-shopping-cart"></i>
                                 ADD TO CART
@@ -163,8 +167,8 @@
                         </p>
                     </div><!--  end of #product1  -->
 
-                    <div id="product" class="col col-lg-3">
-                        <a href="#"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
+                    <div class="product col col-lg-3">
+                        <a href="#macbookpro" data-toggle="modal"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
 
                         <h3><a href="#">This is the Product Title</a></h3>
 
@@ -173,7 +177,7 @@
                         <h5>Availability: <span class="instock">In Stock</span></h5>
 
                         <p>
-                            <a href="#" class="cart-btn">
+                            <a href="" class="cart-btn">
                                 <span class="price">$499.08</span>
                                 <i class="fa fa-shopping-cart"></i>
                                 ADD TO CART
@@ -188,8 +192,8 @@
                         </p>
                     </div><!--  end of #product2  -->
 
-                    <div id="product" class="col col-lg-3">
-                        <a href="#"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
+                    <div class="product col col-lg-3">
+                        <a href="#macbookpro" data-toggle="modal"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
 
                         <h3><a href="#">This is the Product Title</a></h3>
 
@@ -198,7 +202,7 @@
                         <h5>Availability: <span class="instock">In Stock</span></h5>
 
                         <p>
-                            <a href="#" class="cart-btn">
+                            <a href="" class="cart-btn">
                                 <span class="price">$499.08</span>
                                 <i class="fa fa-shopping-cart"></i>
                                 ADD TO CART
@@ -213,8 +217,8 @@
                         </p>
                     </div><!--  end of #product3  -->
 
-                    <div id="product" class="col col-lg-3">
-                        <a href="#"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
+                    <div class="product col col-lg-3">
+                        <a href="#macbookpro" data-toggle="modal"><img src="_/img/laptop.png" alt="Product" class="feature"></a>
 
                         <h3><a href="#">This is the Product Title</a></h3>
 
@@ -310,6 +314,26 @@
                     </div><!-- end payments -->
                 </section>
             </footer>
+
+
+
+            <!-- modal windows -->
+            <div id="macbookpro" class="modal fade" tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close glyphicon glyphicon-remove" data-dismiss="modal"></button>
+                            <h3 class="modal-title">Macbook Pro</h3>
+                        </div>
+                        <div class="modal-body">
+                            <p><img src="_/img/laptop-large.jpg" alt="Macbook Pro" class="img-responsive pull-left">The 11-inch MacBook Air lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 9 hours of iTunes film playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up where you left off.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-primary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="_/js/bootstrap.js"></script>
 
