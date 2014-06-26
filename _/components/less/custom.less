@@ -128,7 +128,7 @@
 }
 
 #main-content h2, #main-content h3 {
-  color: @link-green;
+  color: @dark-text;
   margin-bottom: 20px;
 }
 
@@ -251,6 +251,125 @@
 }
 
 
+/**********************************************
+        CATEGORIES PAGES: PROMO ALT
+***********************************************/
+
+#promo-alt {
+  padding: 0 0 0 30px;
+
+
+  #promo1 {
+    position: relative;
+    height: 512px;
+    background: url("../img/promo_bg.png");
+
+    h1{
+
+        color: @darkish-black;
+        font-size: 28px;
+        padding-top: 35px;
+        margin-bottom: 16px;
+
+    }
+
+    p{
+      color: @link-green;
+      margin-bottom: 50px;
+      font-size: 20px;
+    }
+
+    span.bold {
+      font-weight: bold;
+    }
+
+    img {
+      position: absolute;
+      top: 21%;
+      left: 3%;
+    }
+
+
+  }
+
+
+  /* --- double promo --- */
+
+  #double-promo{
+  }
+
+  /* --- promo2 --- */
+
+  #promo2 {
+    text-align: left;
+    position: relative;
+    height: 191px;
+    border-bottom: 1px dotted #000;
+    border-left: 1px dotted #000;
+    background: #fff;
+    margin-left: -15px;
+    margin-top: -18px;
+
+
+    h2{
+      color: @darkish-black;
+      font-size: 16px;
+      margin: 20px 0 30px 20px;
+      padding-top: 34px;
+    }
+
+    a:link{
+      margin-left: 20px;
+    }
+
+    img {
+      position: absolute;
+      top: 32%;
+      left: 65%;
+    }
+
+    a img {
+      position: inherit;
+    }
+
+  }
+
+
+  /* --- promo3 ---- */
+
+  #promo3 {
+
+    text-align: left;
+    position: relative;
+    background-color: @darkish-black;
+    height: 317px;
+    margin-left: -14px;
+
+    img {
+      margin-top: 20px;
+    }
+
+    a img {
+      margin-top: 0;
+    }
+
+    h2 {
+      position: absolute;
+      top: 10%;
+      left: 50%;
+      color: #fff;
+      font-size: 16px;
+    }
+
+    a:link {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+    }
+
+  }
+}
+
 
 /**********************************************
         SIGN-IN PAGE
@@ -325,13 +444,17 @@
    MY ACCOUNT LINKS
    ============================================================================ */
 
-#account {
+#account, #categories-menu {
 
   border-right: 1px solid @border;
   text-align: left;
   display: inline-block;
   *display: inline;
   *zoom: 1;
+
+  h2{
+    color: @dark-text;
+  }
 
   h3{
     color: @light-text;
@@ -343,6 +466,7 @@
   }
 
   a{
+    color: @dark-text;
 
     &:hover {
       color: @link-green;
@@ -412,8 +536,39 @@
 }
 
 
+/* ============================================================================
+   SEARCH KEYWORD
+   ============================================================================ */
+
+#search-keyword {
+  padding: 30px 0 30px 30px;
+
+  h1{
+    font-size: 22px;
+    font-weight: normal;
+
+    span{
+      font-weight: bold;
+    }
+
+  }
+
+}
 
 
+
+
+/* ============================================================================
+   SEARCH RESULTS
+   ============================================================================ */
+
+#search-results {
+  text-align: left;
+
+ .product {
+    margin-bottom: 30px;
+  }
+}
 
 
 /*FOOTER */
