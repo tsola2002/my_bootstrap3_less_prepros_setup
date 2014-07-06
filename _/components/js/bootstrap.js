@@ -1,4 +1,3 @@
-
 //@prepros-prepend jquery.js
 //@prepros-prepend affix.js
 //@prepros-prepend transition.js
