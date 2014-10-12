@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/macbook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/main-product.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/promo_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/promo_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/thunderbolt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search-results.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/img/slider_bg.jpg" afterPath="$PROJECT_DIR$/_/img/slider_bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/custom.css" afterPath="$PROJECT_DIR$/_/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/custom.less" afterPath="$PROJECT_DIR$/_/components/less/custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_account.html" afterPath="$PROJECT_DIR$/new_account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order-details.html" afterPath="$PROJECT_DIR$/order-details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/signin.html" afterPath="$PROJECT_DIR$/signin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/non-responsive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/bootstrap.css" afterPath="$PROJECT_DIR$/_/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b2.iws" />
@@ -44,10 +30,8 @@
       <file leaf-file-name="custom.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="556" column="0" selection-start="9437" selection-end="9437" vertical-scroll-proportion="-7.372549" vertical-offset="8379" max-vertical-offset="11764">
-              <folding>
-                <element signature="e#8421#9032#0" expanded="false" />
-              </folding>
+            <state line="556" column="0" selection-start="9437" selection-end="9437" vertical-scroll-proportion="0.0" vertical-offset="9452" max-vertical-offset="12461">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,7 +39,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="56" selection-start="1060" selection-end="1060" vertical-scroll-proportion="-0.15059222" vertical-offset="565" max-vertical-offset="5185">
+            <state line="7" column="22" selection-start="195" selection-end="195" vertical-scroll-proportion="0.21636364" vertical-offset="0" max-vertical-offset="5185">
               <folding>
                 <element signature="tag#section#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -63,10 +47,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="non-responsive.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/non-responsive.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="23" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1938">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="category.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/category.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="47" selection-start="1165" selection-end="1165" vertical-scroll-proportion="-17.653847" vertical-offset="51" max-vertical-offset="5644">
+            <state line="30" column="47" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="5644">
               <folding />
             </state>
           </provider>
@@ -75,7 +68,7 @@
       <file leaf-file-name="product-page.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="47" selection-start="1180" selection-end="1180" vertical-scroll-proportion="-15.692307" vertical-offset="102" max-vertical-offset="3995">
+            <state line="30" column="47" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3995">
               <folding />
             </state>
           </provider>
@@ -84,7 +77,7 @@
       <file leaf-file-name="signin.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="47" selection-start="992" selection-end="992" vertical-scroll-proportion="-14.692307" vertical-offset="60" max-vertical-offset="3247">
+            <state line="26" column="47" selection-start="992" selection-end="992" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="3247">
               <folding />
             </state>
           </provider>
@@ -93,13 +86,8 @@
       <file leaf-file-name="search-results.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search-results.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="47" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-14.153846" vertical-offset="142" max-vertical-offset="3638">
-              <folding>
-                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#3;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="30" column="47" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="5202">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +95,7 @@
       <file leaf-file-name="new_account.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="47" selection-start="996" selection-end="996" vertical-scroll-proportion="-6.5384617" vertical-offset="272" max-vertical-offset="4879">
+            <state line="26" column="47" selection-start="996" selection-end="996" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="4879">
               <folding />
             </state>
           </provider>
@@ -116,11 +104,8 @@
       <file leaf-file-name="order-details.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="75" selection-start="3250" selection-end="3250" vertical-scroll-proportion="-21.038462" vertical-offset="252" max-vertical-offset="3519">
-              <folding>
-                <element signature="tag#ul#0;tag#li#0;tag#ul#0;tag#nav#0;tag#div#1;tag#section#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#2;tag#section#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="59" column="75" selection-start="3250" selection-end="3250" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="3723">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,16 +146,17 @@
         <option value="$PROJECT_DIR$/search-results.html" />
         <option value="$PROJECT_DIR$/new_account.html" />
         <option value="$PROJECT_DIR$/order-details.html" />
+        <option value="$PROJECT_DIR$/non-responsive.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="786" />
+    <option name="x" value="105" />
+    <option name="y" value="32" />
+    <option name="width" value="1194" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -198,6 +184,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -212,88 +199,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="corporate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corporate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corporate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="my_bootstrap3_less_prepros_setup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="126efdfe-19a7-4831-9175-7bc569e8d4da">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="33e56b9d-040e-45a0-b9aa-04a51291bc4c">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="397852a4-3ad5-48a4-a32c-7df8ba03dc71">
-        <serverdata />
-      </server>
-      <server id="3d86f6d1-10b6-4412-afc8-e2fc8d2fd1a8">
-        <serverdata />
-      </server>
-      <server id="ee0cfba3-7e9c-4e2a-ad88-52e6992f9486">
-        <serverdata />
-      </server>
-      <server id="f4dedf53-b769-44c0-a6c0-6105360d16c6">
-        <serverdata />
-      </server>
-      <server id="fa5b9f9b-6a73-4286-84e6-65c2f22d6538">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -381,7 +298,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <frame x="105" y="32" width="1194" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -390,7 +307,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.221875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22156197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -452,11 +369,6 @@
         <state line="40" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1513" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/img/slide1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="-2.3333333" vertical-offset="0" max-vertical-offset="935" />
@@ -464,60 +376,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="556" column="0" selection-start="9437" selection-end="9437" vertical-scroll-proportion="-7.372549" vertical-offset="8379" max-vertical-offset="11764">
-          <folding>
-            <element signature="e#8421#9032#0" expanded="false" />
-          </folding>
+        <state line="556" column="0" selection-start="9437" selection-end="9437" vertical-scroll-proportion="0.0" vertical-offset="9452" max-vertical-offset="12461">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/category.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="47" selection-start="1165" selection-end="1165" vertical-scroll-proportion="-17.653847" vertical-offset="51" max-vertical-offset="5644">
+        <state line="30" column="47" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="5644">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/product-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="47" selection-start="1180" selection-end="1180" vertical-scroll-proportion="-15.692307" vertical-offset="102" max-vertical-offset="3995">
+        <state line="30" column="47" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3995">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/signin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="47" selection-start="992" selection-end="992" vertical-scroll-proportion="-14.692307" vertical-offset="60" max-vertical-offset="3247">
+        <state line="26" column="47" selection-start="992" selection-end="992" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="3247">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/search-results.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="47" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-14.153846" vertical-offset="142" max-vertical-offset="3638">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#3;tag#div#0;tag#div#0;tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="30" column="47" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="5202">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new_account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="47" selection-start="996" selection-end="996" vertical-scroll-proportion="-6.5384617" vertical-offset="272" max-vertical-offset="4879">
+        <state line="26" column="47" selection-start="996" selection-end="996" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="4879">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="75" selection-start="3250" selection-end="3250" vertical-scroll-proportion="-21.038462" vertical-offset="252" max-vertical-offset="3519">
-          <folding>
-            <element signature="tag#ul#0;tag#li#0;tag#ul#0;tag#nav#0;tag#div#1;tag#section#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#section#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="59" column="75" selection-start="3250" selection-end="3250" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="3723">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -526,9 +428,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/non-responsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="23" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="56" selection-start="1060" selection-end="1060" vertical-scroll-proportion="-0.15059222" vertical-offset="565" max-vertical-offset="5185">
+        <state line="7" column="22" selection-start="195" selection-end="195" vertical-scroll-proportion="0.21636364" vertical-offset="0" max-vertical-offset="5185">
           <folding>
             <element signature="tag#section#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
