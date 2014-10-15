@@ -1,16 +1,13 @@
-@body-color: #f1f1f1;
-@light-text: #c3c3c3;
-@dark-text: #555555;
-@border: #eeeeee;
-@very-light-bg: #f6f6f6;
-@darkish-black: #2e373f;
-@link-brown:            #be7d3b;
+@link-brown:   #be7d3b;
 @light-brown: #e6e1d7;
 @grey-link: #808080;
 @second-brown: #a69578;
 @lighter-brown: #cec3af;
 @dark-brown: #603c12;
 @dark-brown2: #542d00;
+@transparent-brown: #dfd9cf;
+
+
 
 
 
@@ -33,6 +30,7 @@ header {
 
     a{
       color: @grey-link;
+
     }
   }
 }
@@ -67,6 +65,14 @@ li.reservation{
     display: inline-block;
     margin-left: 17px;
   }
+
+  a{
+    padding-top: 5px;
+    text-decoration: none;
+    &:hover{
+      border-top: 2px solid @dark-brown;
+    }
+  }
 }
 
 
@@ -78,6 +84,12 @@ li.reservation{
 
 #showcase{
   background-color: @light-brown;
+
+  .spacing{
+    margin-left: -5px;
+    margin-right: -0px;
+  }
+
 }
 
 #location{
@@ -100,20 +112,34 @@ li.reservation{
 
 #gallery{
   background-color: @second-brown;
+  clear: both;
+  overflow: hidden;
+
+
 
   ul{
     list-style-type: none;
+    margin-left: 69px;
+    margin-right: 98px;
 
     li{
-      display: inline-block;
+      float: left;
+      display: block;
+      width: 25%;
+
     }
   }
 }
 
+
+
 footer{
   background-color: @lighter-brown;
-  padding-top: 21px;
-  padding-bottom: 27px;
+  padding-top: 27px;
+  padding-bottom: 31px;
+
+
+
 }
 
 .footer-top-link ul{
@@ -122,13 +148,17 @@ footer{
     font-family: 'Droid Serif', serif;
     float: left;
     margin-left: 20px;
+
+    a{
+      color: @dark-brown;
+    }
   }
 }
 
 .footer-bottom-link{
   padding-top: 40px;
   ul{
-    color: @link-brown;
+    color: @dark-brown;
     li{
       float: left;
       margin-left: 20px;
@@ -152,6 +182,89 @@ footer{
   border-left: 1px solid @dark-brown;
 
 }
+
+
+/**
+VILLAS & SUITES
+*/
+
+#main-content{
+  position: relative;
+  height: 935px;
+  background: url('../img/transparent-bg.jpg') no-repeat;
+
+
+
+  .sub-main{
+    position: absolute;
+   // top: 35px;
+   // opacity: 0.7;
+    //background-color: #fff;
+    height: 742px;
+    width: 1000px;
+    margin: 30px 100px 0 100px;
+  }
+
+  .sidebar{
+    height: 742px;
+    opacity: 0.7;
+    background-color: #fff;
+    margin-left: 15px;
+
+
+    .sidenav{
+    // background-color: #fff;
+     padding-top: 34px;
+
+      ul{
+        list-style-type: none;
+
+        li{
+          margin-bottom: 24px;
+        }
+      }
+
+    }
+
+
+
+   .side-info{
+     background-color: @transparent-brown;
+     margin: 0 -15px 0 -15px;
+    // height: 277px;
+
+     h4{
+       padding: 14px 0 0 22px;
+       font-style: italic;
+       font-family: 'Droid Serif', serif;
+     }
+
+     ul{
+       li{
+         margin-bottom: 17px;
+       }
+     }
+
+     p{
+       margin-left: 25px;
+     }
+
+   }
+  }
+
+
+  .villa-details{
+    background-color: #fff;
+    height: 742px;
+  }
+
+  .whitespace{
+   // background-color: #fff;
+   // height: 742px;
+  }
+
+}
+
 
 
 

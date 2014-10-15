@@ -16,8 +16,18 @@
 @brand-primary:         #428bca;
 @brand-success:         #5cb85c;
 @brand-info:            #5bc0de;
-@brand-warning:         #f0ad4e;
+@brand-warning:         #be7d3b;
 @brand-danger:          #d9534f;
+@link-brown:            #be7d3b;
+
+//PERSONAL COLOURS
+@link-brown:   #be7d3b;
+@light-brown: #e6e1d7;
+@grey-link: #808080;
+@second-brown: #a69578;
+@lighter-brown: #cec3af;
+@dark-brown: #603c12;
+@dark-brown2: #542d00;
 
 
 //== Scaffolding
@@ -30,17 +40,17 @@
 @text-color:            @gray-dark;
 
 //** Global textual link color.
-@link-color:            @brand-primary;
+@link-color:            @link-brown;
 //** Link hover color set via `darken()` function.
-@link-hover-color:      darken(@link-color, 15%);
+@link-hover-color:      @dark-brown;
 
 
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-@font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
-@font-family-serif:       Georgia, "Times New Roman", Times, serif;
+@font-family-sans-serif:  'Open Sans', sans-serif;
+@font-family-serif:       'Droid Serif', serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 @font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
 @font-family-base:        @font-family-sans-serif;
@@ -325,7 +335,7 @@
 @container-md:                 @container-desktop;
 
 // Large screen / wide desktop
-@container-large-desktop:      ((1140px + @grid-gutter-width));
+@container-large-desktop:      ((1200px + @grid-gutter-width));
 //** For `@screen-lg-min` and up.
 @container-lg:                 @container-large-desktop;
 
