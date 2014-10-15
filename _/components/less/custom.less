@@ -6,6 +6,7 @@
 @dark-brown: #603c12;
 @dark-brown2: #542d00;
 @transparent-brown: #dfd9cf;
+@hover-brown: #c68f57;
 
 
 
@@ -31,6 +32,17 @@ header {
     a{
       color: @grey-link;
 
+    }
+
+    button{
+      font-family: 'Droid Serif', serif;
+      font-style: italic;
+     // font-weight: bold;
+
+     span{
+       font-size: 10px;
+       color: @dark-brown;
+     }
     }
   }
 }
@@ -151,6 +163,8 @@ footer{
 
     a{
       color: @dark-brown;
+
+
     }
   }
 }
@@ -209,7 +223,7 @@ VILLAS & SUITES
     height: 742px;
     opacity: 0.7;
     background-color: #fff;
-    margin-left: 15px;
+    //margin-left: 15px;
 
 
     .sidenav{
@@ -220,7 +234,18 @@ VILLAS & SUITES
         list-style-type: none;
 
         li{
+          //float: left;
+          display: block;
           margin-bottom: 24px;
+
+          a{
+            color: @dark-brown;
+            text-decoration: none;
+              display: block;
+            &:hover{
+              background-color: @hover-brown;
+            }
+          }
         }
       }
 
@@ -230,7 +255,9 @@ VILLAS & SUITES
 
    .side-info{
      background-color: @transparent-brown;
-     margin: 0 -15px 0 -15px;
+    // margin: 0 -15px 0 -15px;
+     margin-right: -14px;
+     margin-left: -15px;
     // height: 277px;
 
      h4{
@@ -256,12 +283,52 @@ VILLAS & SUITES
   .villa-details{
     background-color: #fff;
     height: 742px;
+
+    .suite-info{
+      padding-top: 31px;
+    }
+
+    .breadcrumb-nav{
+      //padding-top: 40px;
+      background-color: @transparent-brown;
+      margin-top: 54px;
+      margin-left: 4px;
+      padding-top: 10px;
+
+      p{
+        font-family: 'Droid Serif', serif;
+        font-style: italic;
+        font-weight: bold;
+        color: @link-brown;
+      }
+
+      .bc-nav{
+        ul{
+          list-style-type: none;
+          li{
+            display: inline-block;
+            margin-right: 17px;
+
+            a{
+              color: @dark-brown;
+              font-weight: bold;
+              font-style: italic;
+              font-family: 'Droid Serif', serif;
+
+              span{
+                  font-size: 10px;
+                  color: @link-brown;
+              }
+            }
+          }
+        }
+      }
+
+
+    }
   }
 
-  .whitespace{
-   // background-color: #fff;
-   // height: 742px;
-  }
+
 
 }
 
