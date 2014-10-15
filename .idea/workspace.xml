@@ -2,30 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/dunas-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/dunas-map.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/gallery-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/gallery-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/gallery-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/gallery-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/melia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/resort-group.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/showcase-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/showcase-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/showcase.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/slider-image1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/suite-pic-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/suite-pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/transparent-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/uk-pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/.csscomb.json" afterPath="$PROJECT_DIR$/_/components/less/.csscomb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/.csslintrc" afterPath="$PROJECT_DIR$/_/components/less/.csslintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/.jscsrc" afterPath="$PROJECT_DIR$/_/components/js/.jscsrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/.jshintrc" afterPath="$PROJECT_DIR$/_/components/js/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/affix.js" afterPath="$PROJECT_DIR$/_/components/js/affix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/alert.js" afterPath="$PROJECT_DIR$/_/components/js/alert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/alerts.less" afterPath="$PROJECT_DIR$/_/components/less/alerts.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/alerts.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/b2.iml" afterPath="$PROJECT_DIR$/.idea/b2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/background-variant.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/badges.less" afterPath="$PROJECT_DIR$/_/components/less/badges.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/bootstrap.css" afterPath="$PROJECT_DIR$/_/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/bootstrap.js" afterPath="$PROJECT_DIR$/_/components/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/js/bootstrap.js" afterPath="$PROJECT_DIR$/_/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/bootstrap.less" afterPath="$PROJECT_DIR$/_/components/less/bootstrap.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/border-radius.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/_/components/less/breadcrumbs.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/button-groups.less" afterPath="$PROJECT_DIR$/_/components/less/button-groups.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/button.js" afterPath="$PROJECT_DIR$/_/components/js/button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/buttons.less" afterPath="$PROJECT_DIR$/_/components/less/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/carousel.js" afterPath="$PROJECT_DIR$/_/components/js/carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/carousel.less" afterPath="$PROJECT_DIR$/_/components/less/carousel.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/center-block.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/clearfix.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/close.less" afterPath="$PROJECT_DIR$/_/components/less/close.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/code.less" afterPath="$PROJECT_DIR$/_/components/less/code.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/collapse.js" afterPath="$PROJECT_DIR$/_/components/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/component-animations.less" afterPath="$PROJECT_DIR$/_/components/less/component-animations.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/custom.css" afterPath="$PROJECT_DIR$/_/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/custom.js" afterPath="$PROJECT_DIR$/_/components/js/custom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/custom.less" afterPath="$PROJECT_DIR$/_/components/less/custom.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/dropdown.js" afterPath="$PROJECT_DIR$/_/components/js/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/dropdowns.less" afterPath="$PROJECT_DIR$/_/components/less/dropdowns.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/forms.less" afterPath="$PROJECT_DIR$/_/components/less/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/forms.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/_/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/glyphicons.less" afterPath="$PROJECT_DIR$/_/components/less/glyphicons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/gradients.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/grid-framework.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/grid.less" afterPath="$PROJECT_DIR$/_/components/less/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/grid.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/hide-text.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/image.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/image.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/input-groups.less" afterPath="$PROJECT_DIR$/_/components/less/input-groups.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/jquery.js" afterPath="$PROJECT_DIR$/_/components/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/jumbotron.less" afterPath="$PROJECT_DIR$/_/components/less/jumbotron.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/labels.less" afterPath="$PROJECT_DIR$/_/components/less/labels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/labels.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/labels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/list-group.less" afterPath="$PROJECT_DIR$/_/components/less/list-group.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/list-group.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/media.less" afterPath="$PROJECT_DIR$/_/components/less/media.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins.less" afterPath="$PROJECT_DIR$/_/components/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/modal.js" afterPath="$PROJECT_DIR$/_/components/js/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/modals.less" afterPath="$PROJECT_DIR$/_/components/less/modals.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/nav-divider.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/nav-vertical-align.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/navbar.less" afterPath="$PROJECT_DIR$/_/components/less/navbar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/navs.less" afterPath="$PROJECT_DIR$/_/components/less/navs.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/normalize.less" afterPath="$PROJECT_DIR$/_/components/less/normalize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/opacity.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/pager.less" afterPath="$PROJECT_DIR$/_/components/less/pager.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/pagination.less" afterPath="$PROJECT_DIR$/_/components/less/pagination.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/pagination.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/panels.less" afterPath="$PROJECT_DIR$/_/components/less/panels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/panels.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/panels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/popover.js" afterPath="$PROJECT_DIR$/_/components/js/popover.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/popovers.less" afterPath="$PROJECT_DIR$/_/components/less/popovers.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/print.less" afterPath="$PROJECT_DIR$/_/components/less/print.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/progress-bar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/progress-bars.less" afterPath="$PROJECT_DIR$/_/components/less/progress-bars.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/reset-filter.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/resize.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/resize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/responsive-embed.less" afterPath="$PROJECT_DIR$/_/components/less/responsive-embed.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/_/components/less/responsive-utilities.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/responsive-visibility.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/scaffolding.less" afterPath="$PROJECT_DIR$/_/components/less/scaffolding.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/scrollspy.js" afterPath="$PROJECT_DIR$/_/components/js/scrollspy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/size.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/size.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/tab-focus.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/tab.js" afterPath="$PROJECT_DIR$/_/components/js/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/table-row.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/tables.less" afterPath="$PROJECT_DIR$/_/components/less/tables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/text-emphasis.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/text-overflow.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/theme.less" afterPath="$PROJECT_DIR$/_/components/less/theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/thumbnails.less" afterPath="$PROJECT_DIR$/_/components/less/thumbnails.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/tooltip.js" afterPath="$PROJECT_DIR$/_/components/js/tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/tooltip.less" afterPath="$PROJECT_DIR$/_/components/less/tooltip.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/js/transition.js" afterPath="$PROJECT_DIR$/_/components/js/transition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/type.less" afterPath="$PROJECT_DIR$/_/components/less/type.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/utilities.less" afterPath="$PROJECT_DIR$/_/components/less/utilities.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/variables.less" afterPath="$PROJECT_DIR$/_/components/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/_/components/less/mixins/vendor-prefixes.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/villas_&amp;_suites.html" afterPath="$PROJECT_DIR$/villas_&amp;_suites.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/wells.less" afterPath="$PROJECT_DIR$/_/components/less/wells.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b2.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +134,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.42299578">
       <split-first>
         <leaf>
-          <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="44" column="35" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0" vertical-offset="5506" max-vertical-offset="14654">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/_/components/less/bootstrap.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="custom.less" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="custom.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="319" column="18" selection-start="4379" selection-end="4379" vertical-scroll-proportion="0.56491226" vertical-offset="4871" max-vertical-offset="5440">
+                <state vertical-scroll-proportion="0.38206896" vertical-offset="6117" max-vertical-offset="7383">
+                  <caret line="301" column="27" selection-start-line="301" selection-start-column="27" selection-end-line="301" selection-end-column="27" />
                   <folding>
                     <element signature="e#3185#3566#0" expanded="false" />
                   </folding>
@@ -80,19 +150,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="7163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3519">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="villas_&amp;_suites.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/villas_&amp;_suites.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="99" column="30" selection-start="4345" selection-end="4345" vertical-scroll-proportion="0.16451614" vertical-offset="1632" max-vertical-offset="3621">
+                <state vertical-scroll-proportion="0.857931" vertical-offset="114" max-vertical-offset="4761">
+                  <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
                   <folding />
                 </state>
               </provider>
@@ -129,18 +191,18 @@
         <option value="$PROJECT_DIR$/_/components/js/jquery.js" />
         <option value="$PROJECT_DIR$/_/components/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/_/components/less/variables.less" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/villas_&amp;_suites.html" />
         <option value="$PROJECT_DIR$/_/components/less/custom.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="124" />
-    <option name="width" value="1194" />
-    <option name="height" value="427" />
+    <option name="x" value="885" />
+    <option name="y" value="181" />
+    <option name="width" value="1388" />
+    <option name="height" value="760" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -156,7 +218,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -168,6 +230,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -200,27 +263,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_bootstrap3_less_prepros_setup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,6 +275,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -255,7 +300,14 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -285,56 +337,76 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="" />
       <created>1382024615695</created>
+      <option name="number" value="Default" />
       <updated>1382024615695</updated>
     </task>
     <task id="LOCAL-00001" summary="configuring prepros preprocessor to work with bootstrap3's bootstrap.less to generate bootstrap.css">
       <created>1382034355658</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
       <updated>1382034355658</updated>
     </task>
     <task id="LOCAL-00002" summary="combining javascripts to work with prepors processor to concatenate files &amp; minify them along with jquery into one javascript as well as custom script file">
       <created>1382047961872</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
       <updated>1382047961872</updated>
     </task>
     <task id="LOCAL-00003" summary="dunas beach index page implemented">
       <created>1413262630198</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
       <updated>1413262630198</updated>
     </task>
     <task id="LOCAL-00004" summary="first template implemented">
       <created>1413312264258</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
       <updated>1413312264258</updated>
     </task>
     <task id="LOCAL-00005" summary="first template implemented">
       <created>1413349743850</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
       <updated>1413349743850</updated>
     </task>
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="124" width="1194" height="427" extended-state="1" />
-    <editor active="true" />
+    <frame x="885" y="181" width="1388" height="760" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19524617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16786744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -353,106 +425,160 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1012" max-vertical-offset="19826">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="10" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1802" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/mixins/grid.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/mixins/alerts.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/alerts.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="2.3137255" vertical-offset="118" max-vertical-offset="1258" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/list-group.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="32.313725" vertical-offset="1648" max-vertical-offset="2329" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/mixins/grid-framework.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6165803" vertical-offset="357" max-vertical-offset="1649">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="14" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="156315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="35" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0" vertical-offset="5506" max-vertical-offset="14654">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="7163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3519">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1288">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="319" column="18" selection-start="4379" selection-end="4379" vertical-scroll-proportion="0.56491226" vertical-offset="4871" max-vertical-offset="5440">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6808" max-vertical-offset="7360">
+          <caret line="319" column="18" selection-start-line="319" selection-start-column="18" selection-end-line="319" selection-end-column="18" />
           <folding>
             <element signature="e#3185#3566#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4761">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1802">
+          <caret line="25" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/mixins/grid.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/mixins/alerts.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/alerts.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3137255" vertical-offset="118" max-vertical-offset="1258">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/list-group.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="32.313725" vertical-offset="1648" max-vertical-offset="2329">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/mixins/grid-framework.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6165803" vertical-offset="357" max-vertical-offset="1649">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="156315">
+          <caret line="31" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="13" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5506" max-vertical-offset="14654">
+          <caret line="44" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/villas_&amp;_suites.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="30" selection-start="4345" selection-end="4345" vertical-scroll-proportion="0.16451614" vertical-offset="1632" max-vertical-offset="3621">
+        <state vertical-scroll-proportion="0.6537931" vertical-offset="262" max-vertical-offset="4899">
+          <caret line="32" column="121" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38206896" vertical-offset="6117" max-vertical-offset="7383">
+          <caret line="301" column="27" selection-start-line="301" selection-start-column="27" selection-end-line="301" selection-end-column="27" />
+          <folding>
+            <element signature="e#3185#3566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.857931" vertical-offset="114" max-vertical-offset="4761">
+          <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
           <folding />
         </state>
       </provider>
