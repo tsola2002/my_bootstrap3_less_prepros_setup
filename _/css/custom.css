@@ -1,3 +1,7 @@
+.container {
+  max-width: none !important;
+  width: 1200px;
+}
 body {
   border-top: 10px solid #b98f6d;
 }
@@ -153,7 +157,7 @@ VILLAS & SUITES
 }
 #main-content .sidebar .sidenav ul li {
   display: block;
-  margin-bottom: 24px;
+  margin-bottom: 21px;
 }
 #main-content .sidebar .sidenav ul li a {
   color: #603c12;
@@ -185,6 +189,10 @@ VILLAS & SUITES
 }
 #main-content .villa-details .suite-info {
   padding-top: 31px;
+}
+#main-content .villa-details .suite-info p {
+  color: #7c7c7c;
+  line-height: 17pt;
 }
 #main-content .villa-details .breadcrumb-nav {
   background-color: #dfd9cf;

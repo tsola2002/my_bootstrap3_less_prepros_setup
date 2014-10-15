@@ -7,10 +7,14 @@
 @dark-brown2: #542d00;
 @transparent-brown: #dfd9cf;
 @hover-brown: #c68f57;
+@text-grey: #7c7c7c;
 
 
 
-
+.container{
+  max-width: none !important;
+  width:1200px;
+}
 
 body{
   border-top: 10px solid #b98f6d;
@@ -236,7 +240,7 @@ VILLAS & SUITES
         li{
           //float: left;
           display: block;
-          margin-bottom: 24px;
+          margin-bottom: 21px;
 
           a{
             color: @dark-brown;
@@ -286,6 +290,11 @@ VILLAS & SUITES
 
     .suite-info{
       padding-top: 31px;
+
+      p{
+        color: @text-grey;
+        line-height: 17pt;
+      }
     }
 
     .breadcrumb-nav{
