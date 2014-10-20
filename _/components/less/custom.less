@@ -19,6 +19,12 @@
   max-width: none !important;
   width:1200px;
   overflow: hidden;
+
+  padding: 0;
+}
+
+.border-box{
+  background: #ffffff;
 }
 
 body{
@@ -40,7 +46,7 @@ header {
 }
 
 #top-header {
-    padding-bottom: 20px;
+    padding-bottom: 42px;
   ul{
     list-style-type: none;
 
@@ -58,6 +64,7 @@ header {
         font-family: 'Droid Serif', serif;
         font-style: italic;
         // font-weight: bold;
+        border-radius: 0;
 
         span{
           font-size: 10px;
@@ -94,7 +101,9 @@ header {
     background-color: @link-brown;
   }
 
-  #bottom-header ul{
+  #bottom-header {
+      padding-bottom: 20px;
+    ul{
     list-style-type: none;
 
     li{
@@ -109,6 +118,7 @@ header {
         border-top: 2px solid @dark-brown;
       }
     }
+  }
   }
 
 
@@ -274,13 +284,13 @@ header {
     .sub-main{
 
 
-      width: 1000px;
-      margin: 30px 100px 0 100px;
+      width: 1185px;
+     // margin: 30px 100px 0 100px;
       padding-bottom: 30px;
     }
 
     .sidebar{
-      // height: 742px;
+
       opacity: 0.7;
       background-color: #fff;
       //margin-left: 15px;
