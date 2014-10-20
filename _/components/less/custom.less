@@ -8,6 +8,10 @@
 @transparent-brown: #dfd9cf;
 @hover-brown: #c68f57;
 @text-grey: #7c7c7c;
+@purple: #645c6a;
+@orange: #aa4a08;
+@green: #5c6201;
+@mid-brown: #bc8041;
 
 
 
@@ -26,341 +30,407 @@ header {
   height: 114px;
 }
 
-#top-header ul{
-  list-style-type: none;
-
-  li{
-    display: inline-block;
-    margin-left: 17px;
-
-
-    a{
-      color: @grey-link;
-
-    }
-
-    button{
-      font-family: 'Droid Serif', serif;
-      font-style: italic;
-     // font-weight: bold;
-
-     span{
-       font-size: 10px;
-       color: @dark-brown;
-     }
-    }
-  }
-}
-
-
-#slider{
-
-}
-
-#quote{
-  padding-top: 24px;
-  p{
-    font-size: 20px;
-  }
-}
-
-#location{
-  h2{
-    font-family: 'Droid Serif', serif;
-    font-style: italic;
-  }
-}
-
-li.reservation{
-  background-color: @link-brown;
-}
-
-#bottom-header ul{
-   list-style-type: none;
-
-  li{
-    display: inline-block;
-    margin-left: 17px;
-  }
-
-  a{
-    padding-top: 5px;
-    text-decoration: none;
-    &:hover{
-      border-top: 2px solid @dark-brown;
-    }
-  }
-}
-
-
-#quote{
-  color: @link-brown;
-  font-family: 'Droid Serif', serif;
-  font-style: italic;
-}
-
-#showcase{
-  background-color: @light-brown;
-
-  .spacing{
-    margin-left: -5px;
-    margin-right: -0px;
-  }
-
-}
-
-#location{
-  h2{
-    color: @link-brown;
-  }
-
-  h4{
-    color: @link-brown;
-    font-family: 'Droid Serif', serif;
-    font-style: italic;
-  }
-
-  h3{
-    font-family: 'Droid Serif', serif;
-  }
-
-
-}
-
-#gallery{
-  background-color: @second-brown;
-  clear: both;
-  overflow: hidden;
-
-
-
+#top-header {
+    padding-bottom: 20px;
   ul{
     list-style-type: none;
-    margin-left: 69px;
-    margin-right: 98px;
 
     li{
-      float: left;
-      display: block;
-      width: 25%;
+      display: inline-block;
+      margin-left: 17px;
 
+
+      a{
+        color: @grey-link;
+
+      }
+
+      button{
+        font-family: 'Droid Serif', serif;
+        font-style: italic;
+        // font-weight: bold;
+
+        span{
+          font-size: 10px;
+          color: @dark-brown;
+        }
+      }
     }
   }
 }
 
+  #slider{
 
+  }
 
-footer{
-  background-color: @lighter-brown;
-  padding-top: 27px;
-  padding-bottom: 31px;
+  #quote{
+    padding-top: 24px;
+    p{
+      font-size: 20px;
+    }
+  }
 
+  #location{
+    h2{
+      font-family: 'Droid Serif', serif;
+      font-style: italic;
+    }
 
+    .location-info{
+      padding-bottom: 52px;
+    }
+  }
 
-}
+  li.reservation{
+    background-color: @link-brown;
+  }
 
-.footer-top-link ul{
-  color: @dark-brown;
-  li{
-    font-family: 'Droid Serif', serif;
-    float: left;
-    margin-left: 20px;
+  #bottom-header ul{
+    list-style-type: none;
+
+    li{
+      display: inline-block;
+      margin-left: 17px;
+    }
 
     a{
-      color: @dark-brown;
-
-
+      padding-top: 5px;
+      text-decoration: none;
+      &:hover{
+        border-top: 2px solid @dark-brown;
+      }
     }
   }
-}
-
-.footer-bottom-link{
-  padding-top: 40px;
-  ul{
-    color: @dark-brown;
-    li{
-      float: left;
-      margin-left: 20px;
-    }
-  }
-}
-
-#resort-list{
-  padding-top: 36px;
-}
 
 
-.footer-info{
-  padding-top: 24px;
-  p{
-    color: @dark-brown2;
-  }
-}
-
-#resort-info{
-  border-left: 1px solid @dark-brown;
-
-}
-
-
-/**
-VILLAS & SUITES
-*/
-
-#main-content{
-
-overflow: auto;
-
-
-  background: url('../img/transparent-bg.jpg') repeat-y;
-
-
-
-  .sub-main{
-
-
-    width: 1000px;
-    margin: 30px 100px 0 100px;
+  #quote{
+    color: @link-brown;
+    font-family: 'Droid Serif', serif;
+    font-style: italic;
     padding-bottom: 30px;
   }
 
-  .sidebar{
-   // height: 742px;
-    opacity: 0.7;
-    background-color: #fff;
-    //margin-left: 15px;
+  #showcase{
+    background-color: @light-brown;
+
+    .spacing{
+      margin-left: -5px;
+      margin-right: -0px;
+    }
+
+  }
+
+  #location{
+    h2{
+      color: @link-brown;
+    }
+
+    h4{
+      color: @link-brown;
+      font-family: 'Droid Serif', serif;
+      font-style: italic;
+    }
+
+    h3{
+      font-family: 'Droid Serif', serif;
+    }
 
 
-    .sidenav{
-    // background-color: #fff;
-     padding-top: 34px;
+  }
 
-      ul{
-        list-style-type: none;
+  #gallery{
+    background-color: @second-brown;
+    clear: both;
+    overflow: hidden;
 
-        li{
-          //float: left;
-          display: block;
-          margin-bottom: 21px;
 
-          a{
-            color: @dark-brown;
-            text-decoration: none;
-              display: block;
-            &:hover{
-              background-color: @hover-brown;
-            }
+
+    ul{
+      list-style-type: none;
+      margin-left: 69px;
+      margin-right: 98px;
+
+      li{
+        position: relative;
+        float: left;
+        display: block;
+        width: 25%;
+
+        &:nth-child(1) .image-caption{
+          background-color: @purple;
+        }
+
+        &:nth-child(2) .image-caption{
+          background-color: @orange;
+        }
+
+        &:nth-child(3) .image-caption{
+          background-color: @green;
+        }
+
+        &:nth-child(4) .image-caption{
+          background-color: @mid-brown;
+        }
+
+        .image-caption{
+          color: #ffffff;
+          height: 52px;
+          width: 248px;
+          position: absolute;
+          bottom: 0px;
+          //background-color: @purple;
+          opacity: 0.8;
+
+          h4{
+            font-family: 'Droid Serif', serif;
+            //border-top: 1px solid #ffffff;
+            padding-top: 11px;
+
+
+
           }
         }
       }
-
     }
-
-
-
-   .side-info{
-     background-color: @transparent-brown;
-     padding-bottom: 10px;
-    // margin: 0 -15px 0 -15px;
-     margin-right: -14px;
-     margin-left: -15px;
-    // height: 277px;
-
-     h4{
-       padding: 14px 0 0 22px;
-       font-style: italic;
-       font-family: 'Droid Serif', serif;
-     }
-
-     ul{
-       li{
-         margin-bottom: 17px;
-       }
-     }
-
-     p{
-       margin-left: 25px;
-     }
-
-   }
   }
 
 
-  .villa-details{
-    background-color: #fff;
-    //height: 742px;
 
-    .featured-image{
+  footer{
+    background-color: @lighter-brown;
+    padding-top: 27px;
+    padding-bottom: 31px;
 
-    }
 
-    .listings{
-      padding-top: 45px;
 
-      .sub-listing{
-        border-bottom: 1px solid @link-brown;
-        margin-left: 5px;
-        width: 300px;
-        margin-left: 32px;
-        margin-bottom: 46px;
+  }
+
+  .footer-top-link ul{
+    color: @dark-brown;
+    li{
+      font-family: 'Droid Serif', serif;
+      float: left;
+      margin-left: 20px;
+
+      a{
+        color: @dark-brown;
+
+
       }
     }
+  }
 
-
-    .suite-info{
-      padding-top: 31px;
-
-      p{
-        color: @text-grey;
-        line-height: 17pt;
+  .footer-bottom-link{
+    padding-top: 40px;
+    ul{
+      color: @dark-brown;
+      li{
+        float: left;
+        margin-left: 20px;
       }
     }
+  }
 
-    .breadcrumb-nav{
-      //padding-top: 40px;
-      background-color: @transparent-brown;
-      margin-top: 54px;
-      margin-left: 4px;
-      padding-top: 10px;
-      margin-bottom: 20px;
+  #resort-list{
+    padding-top: 36px;
+  }
 
-      p{
-        font-family: 'Droid Serif', serif;
-        font-style: italic;
-        font-weight: bold;
-        color: @link-brown;
-      }
 
-      .bc-nav{
-        margin-left: -52px;
+  .footer-info{
+    padding-top: 24px;
+    p{
+      color: @dark-brown2;
+    }
+  }
+
+  #resort-info{
+    border-left: 1px solid @dark-brown;
+
+  }
+
+
+  /**
+  VILLAS & SUITES
+  */
+
+  #main-content{
+
+    overflow: auto;
+
+
+    background: url('../img/transparent-bg.jpg') repeat-y;
+
+
+
+    .sub-main{
+
+
+      width: 1000px;
+      margin: 30px 100px 0 100px;
+      padding-bottom: 30px;
+    }
+
+    .sidebar{
+      // height: 742px;
+      opacity: 0.7;
+      background-color: #fff;
+      //margin-left: 15px;
+
+
+      .sidenav{
+        // background-color: #fff;
+        padding-top: 34px;
+
         ul{
           list-style-type: none;
+
           li{
-            display: inline-block;
-            margin-right: -2px;
+            //float: left;
+            display: block;
+            margin-bottom: 21px;
 
             a{
               color: @dark-brown;
-              font-weight: bold;
-              font-style: italic;
-              font-family: 'Droid Serif', serif;
-
-              span{
-                  font-size: 10px;
-                  color: @link-brown;
+              text-decoration: none;
+              display: block;
+              &:hover{
+                background-color: @hover-brown;
               }
             }
           }
         }
+
       }
 
 
+
+      .side-info{
+        background-color: @transparent-brown;
+        padding-bottom: 10px;
+        // margin: 0 -15px 0 -15px;
+        margin-right: -14px;
+        margin-left: -15px;
+        // height: 277px;
+
+        h4{
+          padding: 14px 0 0 22px;
+          font-style: italic;
+          font-family: 'Droid Serif', serif;
+        }
+
+        ul{
+          li{
+            margin-bottom: 17px;
+          }
+        }
+
+        p{
+          margin-left: 25px;
+        }
+
+      }
     }
+
+
+    .villa-details{
+      background-color: #fff;
+      //height: 742px;
+
+      .featured-image{
+
+      }
+
+      .listings{
+        padding-top: 45px;
+
+        .sub-listing{
+          border-bottom: 1px solid @link-brown;
+          margin-left: 5px;
+          width: 300px;
+          margin-left: 32px;
+          margin-bottom: 46px;
+          padding-bottom: 20px;
+        }
+
+        .listing-details{
+
+          p.resort-name{
+            color: @link-brown;
+          }
+
+          button{
+            font-family: 'Droid Serif', serif;
+            font-style: italic;
+          }
+        }
+      }
+
+
+      .suite-info{
+        padding-top: 31px;
+
+        p{
+          color: @text-grey;
+          line-height: 17pt;
+        }
+
+        .sub-featured-image{
+          margin-bottom: 25px;
+        }
+
+        .extra-info{
+          font-family: 'Droid Serif', serif;
+          font-style: italic;
+        }
+
+      }
+
+      .breadcrumb-nav{
+        //padding-top: 40px;
+        background-color: @transparent-brown;
+        margin-top: 54px;
+        margin-left: 4px;
+        padding-top: 10px;
+        margin-bottom: 20px;
+
+        p{
+          font-family: 'Droid Serif', serif;
+          font-style: italic;
+          font-weight: bold;
+          color: @link-brown;
+        }
+
+        .bc-nav{
+          margin-left: -52px;
+          ul{
+            list-style-type: none;
+            li{
+              display: inline-block;
+              margin-right: -2px;
+
+              a{
+                color: @dark-brown;
+                font-weight: bold;
+                font-style: italic;
+                font-family: 'Droid Serif', serif;
+
+                span{
+                  font-size: 10px;
+                  color: @link-brown;
+                }
+              }
+            }
+          }
+        }
+
+
+      }
+    }
+
+
+
   }
 
-
-
-}
 
 
 

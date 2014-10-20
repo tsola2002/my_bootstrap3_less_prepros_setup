@@ -10,6 +10,9 @@ header {
   padding-top: 14px;
   height: 114px;
 }
+#top-header {
+  padding-bottom: 20px;
+}
 #top-header ul {
   list-style-type: none;
 }
@@ -38,6 +41,9 @@ header {
   font-family: 'Droid Serif', serif;
   font-style: italic;
 }
+#location .location-info {
+  padding-bottom: 52px;
+}
 li.reservation {
   background-color: #be7d3b;
 }
@@ -59,6 +65,7 @@ li.reservation {
   color: #be7d3b;
   font-family: 'Droid Serif', serif;
   font-style: italic;
+  padding-bottom: 30px;
 }
 #showcase {
   background-color: #e6e1d7;
@@ -89,9 +96,34 @@ li.reservation {
   margin-right: 98px;
 }
 #gallery ul li {
+  position: relative;
   float: left;
   display: block;
   width: 25%;
+}
+#gallery ul li:nth-child(1) .image-caption {
+  background-color: #645c6a;
+}
+#gallery ul li:nth-child(2) .image-caption {
+  background-color: #aa4a08;
+}
+#gallery ul li:nth-child(3) .image-caption {
+  background-color: #5c6201;
+}
+#gallery ul li:nth-child(4) .image-caption {
+  background-color: #bc8041;
+}
+#gallery ul li .image-caption {
+  color: #ffffff;
+  height: 52px;
+  width: 248px;
+  position: absolute;
+  bottom: 0px;
+  opacity: 0.8;
+}
+#gallery ul li .image-caption h4 {
+  font-family: 'Droid Serif', serif;
+  padding-top: 11px;
 }
 footer {
   background-color: #cec3af;
@@ -132,8 +164,8 @@ footer {
   border-left: 1px solid #603c12;
 }
 /**
-VILLAS & SUITES
-*/
+  VILLAS & SUITES
+  */
 #main-content {
   overflow: auto;
   background: url('../img/transparent-bg.jpg') repeat-y;
@@ -194,6 +226,14 @@ VILLAS & SUITES
   width: 300px;
   margin-left: 32px;
   margin-bottom: 46px;
+  padding-bottom: 20px;
+}
+#main-content .villa-details .listings .listing-details p.resort-name {
+  color: #be7d3b;
+}
+#main-content .villa-details .listings .listing-details button {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
 }
 #main-content .villa-details .suite-info {
   padding-top: 31px;
@@ -201,6 +241,13 @@ VILLAS & SUITES
 #main-content .villa-details .suite-info p {
   color: #7c7c7c;
   line-height: 17pt;
+}
+#main-content .villa-details .suite-info .sub-featured-image {
+  margin-bottom: 25px;
+}
+#main-content .villa-details .suite-info .extra-info {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
 }
 #main-content .villa-details .breadcrumb-nav {
   background-color: #dfd9cf;
