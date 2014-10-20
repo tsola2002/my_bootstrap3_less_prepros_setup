@@ -23,6 +23,15 @@
 
 body{
   border-top: 10px solid #b98f6d;
+  background: url('../img/transparent-bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header-wrapper{
+  background: #ffffff;
 }
 
 header {
@@ -258,7 +267,7 @@ header {
     overflow: auto;
 
 
-    background: url('../img/transparent-bg.jpg') repeat-y;
+   // background: url('../img/transparent-bg.jpg') repeat-y;
 
 
 
@@ -381,6 +390,10 @@ header {
         .extra-info{
           font-family: 'Droid Serif', serif;
           font-style: italic;
+
+          h4{
+            color: @dark-brown;
+          }
         }
 
       }

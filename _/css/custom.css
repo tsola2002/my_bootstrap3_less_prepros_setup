@@ -5,6 +5,14 @@
 }
 body {
   border-top: 10px solid #b98f6d;
+  background: url('../img/transparent-bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.header-wrapper {
+  background: #ffffff;
 }
 header {
   padding-top: 14px;
@@ -168,7 +176,6 @@ footer {
   */
 #main-content {
   overflow: auto;
-  background: url('../img/transparent-bg.jpg') repeat-y;
 }
 #main-content .sub-main {
   width: 1000px;
@@ -248,6 +255,9 @@ footer {
 #main-content .villa-details .suite-info .extra-info {
   font-family: 'Droid Serif', serif;
   font-style: italic;
+}
+#main-content .villa-details .suite-info .extra-info h4 {
+  color: #603c12;
 }
 #main-content .villa-details .breadcrumb-nav {
   background-color: #dfd9cf;
