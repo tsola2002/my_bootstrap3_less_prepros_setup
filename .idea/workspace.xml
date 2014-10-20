@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/cape-verde-map.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/cape-verde.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/melia-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/melia-office-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/img/melia.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/galleries.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hotels-&amp;-resorts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/custom.css" afterPath="$PROJECT_DIR$/_/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/custom.less" afterPath="$PROJECT_DIR$/_/components/less/custom.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives.html" afterPath="$PROJECT_DIR$/archives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bars-&amp;-restaurants.html" afterPath="$PROJECT_DIR$/bars-&amp;-restaurants.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events-&amp;-conferences.html" afterPath="$PROJECT_DIR$/events-&amp;-conferences.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/galleries.html" afterPath="$PROJECT_DIR$/galleries.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hotels-&amp;-resorts.html" afterPath="$PROJECT_DIR$/hotels-&amp;-resorts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-fixed.html" afterPath="$PROJECT_DIR$/index-fixed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/location.html" afterPath="$PROJECT_DIR$/location.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/the-resort-fixed.html" afterPath="$PROJECT_DIR$/the-resort-fixed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/villas_&amp;_suites-fixed.html" afterPath="$PROJECT_DIR$/villas_&amp;_suites-fixed.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yhi-spa-fixed.html" afterPath="$PROJECT_DIR$/yhi-spa-fixed.html" />
     </list>
     <ignored path="b2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +42,7 @@
           <file leaf-file-name="custom.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5701439" vertical-offset="442" max-vertical-offset="10488">
+                <state vertical-scroll-proportion="0.57220215" vertical-offset="442" max-vertical-offset="10488">
                   <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
                   <folding />
                 </state>
@@ -57,11 +56,95 @@
           <file leaf-file-name="archives.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/archives.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.68041235" vertical-offset="294" max-vertical-offset="4968">
-                  <caret line="65" column="57" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+                <state vertical-scroll-proportion="0.3068592" vertical-offset="313" max-vertical-offset="4968">
+                  <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
                   <folding>
                     <element signature="tag#header#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="events-&amp;-conferences.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/events-&amp;-conferences.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5612">
+                  <caret line="33" column="139" selection-start-line="33" selection-start-column="139" selection-end-line="33" selection-end-column="139" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="yhi-spa-fixed.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/yhi-spa-fixed.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5152">
+                  <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+                  <folding>
+                    <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#section#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="hotels-&amp;-resorts.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/hotels-&amp;-resorts.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4876">
+                  <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+                  <folding>
+                    <element signature="tag#header#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="galleries.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/galleries.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5681">
+                  <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="location.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/location.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5451">
+                  <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="the-resort-fixed.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/the-resort-fixed.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5543">
+                  <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="villas_&amp;_suites-fixed.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/villas_&amp;_suites-fixed.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5474">
+                  <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index-fixed.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index-fixed.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5221">
+                  <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -100,17 +183,17 @@
         <option value="$PROJECT_DIR$/villas_&amp;_suites.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/the-resort.html" />
-        <option value="$PROJECT_DIR$/villas_&amp;_suites-fixed.html" />
-        <option value="$PROJECT_DIR$/the-resort-fixed.html" />
-        <option value="$PROJECT_DIR$/events-&amp;-conferences.html" />
+        <option value="$PROJECT_DIR$/_/components/less/custom.less" />
         <option value="$PROJECT_DIR$/bars-&amp;-restaurants.html" />
-        <option value="$PROJECT_DIR$/yhi-spa-fixed.html" />
+        <option value="$PROJECT_DIR$/events-&amp;-conferences.html" />
+        <option value="$PROJECT_DIR$/galleries.html" />
         <option value="$PROJECT_DIR$/index-fixed.html" />
         <option value="$PROJECT_DIR$/location.html" />
-        <option value="$PROJECT_DIR$/galleries.html" />
+        <option value="$PROJECT_DIR$/the-resort-fixed.html" />
+        <option value="$PROJECT_DIR$/villas_&amp;_suites-fixed.html" />
+        <option value="$PROJECT_DIR$/yhi-spa-fixed.html" />
         <option value="$PROJECT_DIR$/hotels-&amp;-resorts.html" />
         <option value="$PROJECT_DIR$/archives.html" />
-        <option value="$PROJECT_DIR$/_/components/less/custom.less" />
       </list>
     </option>
   </component>
@@ -147,7 +230,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -182,6 +264,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,15 +308,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -284,7 +367,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="138" y="516" width="2285" height="617" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -293,20 +376,20 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11772429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11772429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -337,6 +420,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="10488">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4968">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="tag#header#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="10189">
@@ -412,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6165803" vertical-offset="357" max-vertical-offset="1649">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="141933">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,99 +603,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40654844" vertical-offset="4624" max-vertical-offset="5566">
           <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-fixed.html">
+    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0790378" vertical-offset="0" max-vertical-offset="5129">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/villas_&amp;_suites-fixed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24054983" vertical-offset="2873" max-vertical-offset="5359">
-          <caret line="131" column="9" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-resort-fixed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35910654" vertical-offset="2942" max-vertical-offset="5428">
-          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.57220215" vertical-offset="442" max-vertical-offset="10488">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bars-&amp;-restaurants.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38487974" vertical-offset="4445" max-vertical-offset="7038">
-          <caret line="203" column="22" selection-start-line="203" selection-start-column="22" selection-end-line="203" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.3772563" vertical-offset="711" max-vertical-offset="7153">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/events-&amp;-conferences.html">
+    <entry file="file://$PROJECT_DIR$/index-fixed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28006873" vertical-offset="3011" max-vertical-offset="5497">
-          <caret line="138" column="22" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5221">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/location.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32130584" vertical-offset="1676" max-vertical-offset="5336">
-          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5451">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-resort-fixed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5543">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/villas_&amp;_suites-fixed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5474">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/galleries.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46391752" vertical-offset="1271" max-vertical-offset="5566">
-          <caret line="67" column="62" selection-start-line="67" selection-start-column="62" selection-end-line="67" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5681">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events-&amp;-conferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5612">
+          <caret line="33" column="139" selection-start-line="33" selection-start-column="139" selection-end-line="33" selection-end-column="139" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yhi-spa-fixed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4089347" vertical-offset="1740" max-vertical-offset="5037">
-          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="5152">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
           <folding>
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#section#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#section#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hotels-&amp;-resorts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6666667" vertical-offset="1682" max-vertical-offset="5566">
-          <caret line="90" column="79" selection-start-line="90" selection-start-column="79" selection-end-line="90" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archives.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68041235" vertical-offset="294" max-vertical-offset="4968">
-          <caret line="65" column="57" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4876">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
           <folding>
             <element signature="tag#header#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
+    <entry file="file://$PROJECT_DIR$/archives.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5701439" vertical-offset="442" max-vertical-offset="10488">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.3068592" vertical-offset="313" max-vertical-offset="4968">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="tag#header#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
