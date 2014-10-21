@@ -1,1 +1,307 @@
-.container{max-width:none !important;width:1200px;overflow:hidden;padding:0}.border-box{background:#ffffff}body{border-top:10px solid #b98f6d;background:url('../img/transparent-bg.jpg') no-repeat center center fixed;-webkit-background-size:cover;background-size:cover}.header-wrapper{background:#ffffff}header{padding-top:14px;height:114px}#top-header{padding-bottom:42px}#top-header ul{list-style-type:none}#top-header ul li{display:inline-block;margin-left:17px}#top-header ul li a{color:#808080}#top-header ul li button{font-family:'Droid Serif',serif;font-style:italic;border-radius:0}#top-header ul li button span{font-size:10px;color:#603c12}#quote{padding-top:24px}#quote p{font-size:20px}#location h2{font-family:'Droid Serif',serif;font-style:italic}#location .location-info{padding-bottom:52px}li.reservation{background-color:#be7d3b}#bottom-header{padding-bottom:20px}#bottom-header ul{list-style-type:none}#bottom-header ul li{display:inline-block;margin-left:17px}#bottom-header ul a{padding-top:5px;text-decoration:none}#bottom-header ul a:hover{border-top:2px solid #603c12}#quote{color:#be7d3b;font-family:'Droid Serif',serif;font-style:italic;padding-bottom:30px}#showcase{background-color:#e6e1d7}#showcase .spacing{margin-left:-5px;margin-right:0}#location h2{color:#be7d3b}#location h4{color:#be7d3b;font-family:'Droid Serif',serif;font-style:italic}#location h3{font-family:'Droid Serif',serif}#gallery{background-color:#a69578;clear:both;overflow:hidden}#gallery ul{list-style-type:none;margin-left:69px;margin-right:98px}#gallery ul li{position:relative;float:left;display:block;width:25%}#gallery ul li:nth-child(1) .image-caption{background-color:#645c6a}#gallery ul li:nth-child(2) .image-caption{background-color:#aa4a08}#gallery ul li:nth-child(3) .image-caption{background-color:#5c6201}#gallery ul li:nth-child(4) .image-caption{background-color:#bc8041}#gallery ul li .image-caption{color:#ffffff;height:52px;width:248px;position:absolute;bottom:0px;opacity:0.8}#gallery ul li .image-caption h4{font-family:'Droid Serif',serif;padding-top:11px}footer{background-color:#cec3af;padding-top:27px;padding-bottom:31px}.footer-top-link ul{color:#603c12}.footer-top-link ul li{font-family:'Droid Serif',serif;float:left;margin-left:20px}.footer-top-link ul li a{color:#603c12}.footer-bottom-link{padding-top:40px}.footer-bottom-link ul{color:#603c12}.footer-bottom-link ul li{float:left;margin-left:20px}#resort-list{padding-top:36px}.footer-info{padding-top:24px}.footer-info p{color:#542d00}#resort-info{border-left:1px solid #603c12}#main-content{overflow:auto}#main-content .sub-main{width:1185px;padding-bottom:30px}#main-content .sidebar{opacity:0.7;background-color:#fff}#main-content .sidebar .sidenav{padding-top:34px}#main-content .sidebar .sidenav ul{list-style-type:none}#main-content .sidebar .sidenav ul li{display:block;margin-bottom:21px}#main-content .sidebar .sidenav ul li a{color:#603c12;text-decoration:none;display:block}#main-content .sidebar .sidenav ul li a:hover{background-color:#c68f57}#main-content .sidebar .side-info{background-color:#dfd9cf;padding-bottom:10px;margin-right:-14px;margin-left:-15px}#main-content .sidebar .side-info h4{padding:14px 0 0 22px;font-style:italic;font-family:'Droid Serif',serif}#main-content .sidebar .side-info ul li{margin-bottom:17px}#main-content .sidebar .side-info p{margin-left:25px}#main-content .villa-details{background-color:#fff}#main-content .villa-details .listings{padding-top:45px}#main-content .villa-details .listings .sub-listing{border-bottom:1px solid #be7d3b;margin-left:5px;width:300px;margin-left:32px;margin-bottom:46px;padding-bottom:20px}#main-content .villa-details .listings .listing-details p.resort-name{color:#be7d3b}#main-content .villa-details .listings .listing-details button{font-family:'Droid Serif',serif;font-style:italic}#main-content .villa-details .suite-info{padding-top:31px}#main-content .villa-details .suite-info p{color:#7c7c7c;line-height:17pt}#main-content .villa-details .suite-info .sub-featured-image{margin-bottom:25px}#main-content .villa-details .suite-info .extra-info{font-family:'Droid Serif',serif;font-style:italic}#main-content .villa-details .suite-info .extra-info h4{color:#603c12}#main-content .villa-details .breadcrumb-nav{background-color:#dfd9cf;margin-top:54px;margin-left:4px;padding-top:10px;margin-bottom:20px}#main-content .villa-details .breadcrumb-nav p{font-family:'Droid Serif',serif;font-style:italic;font-weight:bold;color:#be7d3b}#main-content .villa-details .breadcrumb-nav .bc-nav{margin-left:-52px}#main-content .villa-details .breadcrumb-nav .bc-nav ul{list-style-type:none}#main-content .villa-details .breadcrumb-nav .bc-nav ul li{display:inline-block;margin-right:-2px}#main-content .villa-details .breadcrumb-nav .bc-nav ul li a{color:#603c12;font-weight:bold;font-style:italic;font-family:'Droid Serif',serif}#main-content .villa-details .breadcrumb-nav .bc-nav ul li a span{font-size:10px;color:#be7d3b}
+.container {
+  max-width: none !important;
+  width: 1200px;
+  overflow: hidden;
+  padding: 0;
+}
+.border-box {
+  background: #ffffff;
+}
+body {
+  border-top: 10px solid #b98f6d;
+  background: url('../img/transparent-bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.header-wrapper {
+  background: #ffffff;
+}
+header {
+  padding-top: 14px;
+  height: 114px;
+}
+#top-header {
+  padding-bottom: 42px;
+}
+#top-header ul {
+  list-style-type: none;
+}
+#top-header ul li {
+  display: inline-block;
+  margin-left: 17px;
+}
+#top-header ul li a {
+  color: #808080;
+}
+#top-header ul li button {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+  border-radius: 0;
+}
+#top-header ul li button span {
+  font-size: 10px;
+  color: #603c12;
+}
+#quote {
+  padding-top: 24px;
+}
+#quote p {
+  font-size: 20px;
+}
+#location h2 {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+}
+#location .location-info {
+  padding-bottom: 52px;
+}
+li.reservation {
+  background-color: #be7d3b;
+}
+#bottom-header {
+  padding-bottom: 20px;
+}
+#bottom-header ul {
+  list-style-type: none;
+}
+#bottom-header ul li {
+  display: inline-block;
+  margin-left: 17px;
+}
+#bottom-header ul a {
+  padding-top: 10px;
+  text-decoration: none;
+}
+#bottom-header ul a:hover {
+  border-top: 2px solid #603c12;
+}
+#quote {
+  color: #be7d3b;
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+  padding-bottom: 30px;
+}
+#showcase {
+  background-color: #e6e1d7;
+}
+#showcase .spacing {
+  margin-left: -5px;
+  margin-right: 0px;
+}
+#location h2 {
+  color: #be7d3b;
+}
+#location h4 {
+  color: #be7d3b;
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+}
+#location h3 {
+  font-family: 'Droid Serif', serif;
+}
+#gallery {
+  background-color: #a69578;
+  clear: both;
+  overflow: hidden;
+}
+#gallery ul {
+  list-style-type: none;
+  margin-left: 69px;
+  margin-right: 98px;
+}
+#gallery ul li {
+  position: relative;
+  float: left;
+  display: block;
+  width: 25%;
+}
+#gallery ul li:nth-child(1) .image-caption {
+  background-color: #645c6a;
+}
+#gallery ul li:nth-child(2) .image-caption {
+  background-color: #aa4a08;
+}
+#gallery ul li:nth-child(3) .image-caption {
+  background-color: #5c6201;
+}
+#gallery ul li:nth-child(4) .image-caption {
+  background-color: #bc8041;
+}
+#gallery ul li .image-caption {
+  color: #ffffff;
+  height: 52px;
+  width: 248px;
+  position: absolute;
+  bottom: 0px;
+  opacity: 0.8;
+}
+#gallery ul li .image-caption h4 {
+  font-family: 'Droid Serif', serif;
+  padding-top: 11px;
+}
+footer {
+  background-color: #cec3af;
+  padding-top: 27px;
+  padding-bottom: 31px;
+}
+.footer-top-link ul {
+  color: #603c12;
+}
+.footer-top-link ul li {
+  font-family: 'Droid Serif', serif;
+  float: left;
+  margin-left: 20px;
+}
+.footer-top-link ul li a {
+  color: #603c12;
+}
+.footer-bottom-link {
+  padding-top: 40px;
+}
+.footer-bottom-link ul {
+  color: #603c12;
+}
+.footer-bottom-link ul li {
+  float: left;
+  margin-left: 20px;
+}
+#resort-list {
+  padding-top: 36px;
+}
+.footer-info {
+  padding-top: 24px;
+}
+.footer-info p {
+  color: #542d00;
+}
+#resort-info {
+  border-left: 1px solid #603c12;
+}
+/**
+  VILLAS & SUITES
+  */
+#main-content {
+  overflow: auto;
+}
+#main-content .sub-main {
+  width: 1185px;
+  padding-bottom: 30px;
+}
+#main-content .sidebar {
+  opacity: 0.7;
+  background-color: #fff;
+}
+#main-content .sidebar .sidenav {
+  padding-top: 34px;
+}
+#main-content .sidebar .sidenav ul {
+  list-style-type: none;
+}
+#main-content .sidebar .sidenav ul li {
+  display: block;
+  margin-bottom: 21px;
+}
+#main-content .sidebar .sidenav ul li a {
+  color: #603c12;
+  text-decoration: none;
+  display: block;
+  padding-left: 9px;
+}
+#main-content .sidebar .sidenav ul li a:hover {
+  background-color: #c68f57;
+}
+#main-content .sidebar .side-info {
+  background-color: #dfd9cf;
+  color: #603c12;
+  padding-bottom: 10px;
+  margin-right: -14px;
+  padding-left: 22px;
+}
+#main-content .sidebar .side-info h4 {
+  padding: 14px 0 0 22px;
+  font-style: italic;
+  font-family: 'Droid Serif', serif;
+}
+#main-content .sidebar .side-info ul li {
+  margin-bottom: 17px;
+}
+#main-content .sidebar .side-info p {
+  margin-left: 25px;
+}
+#main-content .villa-details {
+  background-color: #fff;
+}
+#main-content .villa-details .featured-image {
+  margin-left: 127px;
+}
+#main-content .villa-details .listings {
+  padding-top: 45px;
+}
+#main-content .villa-details .listings .sub-listing {
+  border-bottom: 1px solid #be7d3b;
+  margin-left: 5px;
+  width: 300px;
+  margin-left: 32px;
+  margin-bottom: 46px;
+  padding-bottom: 20px;
+}
+#main-content .villa-details .listings .listing-details p.resort-name {
+  color: #be7d3b;
+}
+#main-content .villa-details .listings .listing-details button {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+}
+#main-content .villa-details .suite-info {
+  padding-top: 31px;
+}
+#main-content .villa-details .suite-info p {
+  color: #7c7c7c;
+  line-height: 17pt;
+}
+#main-content .villa-details .suite-info .sub-featured-image {
+  margin-bottom: 25px;
+}
+#main-content .villa-details .suite-info .right-featured-image {
+  margin-left: 60px;
+}
+#main-content .villa-details .suite-info .extra-info {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+}
+#main-content .villa-details .suite-info .extra-info h4 {
+  color: #603c12;
+}
+#main-content .villa-details .breadcrumb-nav {
+  background-color: #dfd9cf;
+  margin-top: 54px;
+  margin-left: 4px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+#main-content .villa-details .breadcrumb-nav p {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #be7d3b;
+}
+#main-content .villa-details .breadcrumb-nav .bc-nav {
+  margin-left: -52px;
+}
+#main-content .villa-details .breadcrumb-nav .bc-nav ul {
+  list-style-type: none;
+}
+#main-content .villa-details .breadcrumb-nav .bc-nav ul li {
+  display: inline-block;
+  margin-right: 16px;
+}
+#main-content .villa-details .breadcrumb-nav .bc-nav ul li a {
+  color: #603c12;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Droid Serif', serif;
+}
+#main-content .villa-details .breadcrumb-nav .bc-nav ul li a span {
+  font-size: 10px;
+  color: #be7d3b;
+}
