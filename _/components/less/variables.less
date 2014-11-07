@@ -19,15 +19,34 @@
 @brand-warning:         #f0ad4e;
 @brand-danger:          #d9534f;
 
+//stowers colors
+
+@stowers-blue: #16243e;
+@stowers-blue-hover: #0c1625;
+@white: #ffffff;
+@stowers-red: #9d1730;
+
+
+//fonts
+
+font-face {font-family: 'CenturyGothicStd';src: url('webfonts/2C7C0D_0_0.eot');src: url('webfonts/2C7C0D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_0_0.woff2') format('woff2'),url('webfonts/2C7C0D_0_0.woff') format('woff'),url('webfonts/2C7C0D_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'BaskervilleMTStd-Regular';src: url('webfonts/2C7C0D_1_0.eot');src: url('webfonts/2C7C0D_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_1_0.woff2') format('woff2'),url('webfonts/2C7C0D_1_0.woff') format('woff'),url('webfonts/2C7C0D_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'BaskervilleMTStd-Italic';src: url('webfonts/2C7C0D_2_0.eot');src: url('webfonts/2C7C0D_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_2_0.woff2') format('woff2'),url('webfonts/2C7C0D_2_0.woff') format('woff'),url('webfonts/2C7C0D_2_0.ttf') format('truetype');}
+
+
 
 //== Scaffolding
 //
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-@body-bg:               #fff;
+@body-bg:               @stowers-blue;
 //** Global text color on `<body>`.
-@text-color:            @gray-dark;
+@text-color:            @white;
 
 //** Global textual link color.
 @link-color:            @brand-primary;
@@ -39,8 +58,8 @@
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-@font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
-@font-family-serif:       Georgia, "Times New Roman", Times, serif;
+@font-family-sans-serif:  'BaskervilleMTStd-Regular', serif;
+@font-family-serif:       'BaskervilleMTStd-Regular', serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 @font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
 @font-family-base:        @font-family-sans-serif;

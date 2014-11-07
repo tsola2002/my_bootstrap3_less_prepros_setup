@@ -1,9 +1,129 @@
-@body-color: #f1f1f1;
-@light-text: #c3c3c3;
-@dark-text: #555555;
-@link-green: #2ecc71;
-@link-green-hover: #37f387;
-@light-text: #8e939a;
-@border: #eeeeee;
-@very-light-bg: #f6f6f6;
-@darkish-black: #2e373f;
+@stowers-blue: #16243e;
+@stowers-blue-hover: #0c1625;
+@white: #ffffff;
+@stowers-red: #9d1730;
+@border-red: #a40e2b;
+
+@font-face {font-family: 'CenturyGothicStd';src: url('webfonts/2C7C0D_0_0.eot');src: url('webfonts/2C7C0D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_0_0.woff2') format('woff2'),url('webfonts/2C7C0D_0_0.woff') format('woff'),url('webfonts/2C7C0D_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'BaskervilleMTStd-Regular';src: url('webfonts/2C7C0D_1_0.eot');src: url('webfonts/2C7C0D_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_1_0.woff2') format('woff2'),url('webfonts/2C7C0D_1_0.woff') format('woff'),url('webfonts/2C7C0D_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'BaskervilleMTStd-Italic';src: url('webfonts/2C7C0D_2_0.eot');src: url('webfonts/2C7C0D_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_2_0.woff2') format('woff2'),url('webfonts/2C7C0D_2_0.woff') format('woff'),url('webfonts/2C7C0D_2_0.ttf') format('truetype');}
+
+
+
+body{
+  text-align: center;
+  background: url('../img/stowers-flag-bkgd.png') no-repeat top center;
+  background-color: @stowers-blue;
+}
+
+
+.headings{
+
+
+
+  .stowers-logo {
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+
+
+  .mission-statement{
+    padding-top: 40px;
+    font-style: italic;
+
+    p {
+      font-size: 28px;
+      font-family: 'BaskervilleMTStd-Italic';
+      font-style: italic;
+
+    }
+
+  }
+
+
+
+}
+
+.newsletter {
+  padding: 37px 0 60px 0;
+
+  form {
+    padding-bottom: 20px;
+
+    input[type="text"] {
+      background-color: @stowers-blue;
+      border: 1px solid white;
+      width: 228px;
+      height: 30px;
+      color: @white;
+      padding-left: 20px;
+    }
+
+    ::-webkit-input-placeholder { /* WebKit browsers */
+      color:    @white;
+    }
+    :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+      color:    @white;
+      opacity:  1;
+    }
+    ::-moz-placeholder { /* Mozilla Firefox 19+ */
+      color:    @white;
+      opacity:  1;
+    }
+    :-ms-input-placeholder { /* Internet Explorer 10+ */
+      color:    @white;
+    }
+
+    input[type="submit"] {
+      background-color: @stowers-red;
+      width: 86px;
+      height: 31px;
+      border: none;
+      font-style: italic;
+
+      &:hover{
+        background-color: @stowers-blue-hover;
+      }
+    }
+
+
+  }
+
+  p{
+    font-size: 12px;
+  }
+}
+
+.mission-quote {
+
+  p{
+    font-size: 28px;
+    font-style: italic;
+  }
+}
+
+footer{
+  padding-top: 60px;
+
+  ul{
+    list-style-type: none;
+
+    li{
+      display: inline-block;
+      margin-left: 20px;
+      border-left: 1px solid @border-red;
+      padding-left: 22px;
+      font-family: "Century Gothic", Helvetica, sans-serif;
+      letter-spacing: 3px;
+    }
+  }
+}
+
+
+
+
+
