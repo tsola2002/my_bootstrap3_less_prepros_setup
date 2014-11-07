@@ -4,20 +4,38 @@
 @stowers-red: #9d1730;
 @border-red: #a40e2b;
 
-@font-face {font-family: 'CenturyGothicStd';src: url('webfonts/2C7C0D_0_0.eot');src: url('webfonts/2C7C0D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_0_0.woff2') format('woff2'),url('webfonts/2C7C0D_0_0.woff') format('woff'),url('webfonts/2C7C0D_0_0.ttf') format('truetype');}
+//fonts
+@font-face {font-family: 'CenturyGothicStd';src: url('../webfonts/2C7C0D_0_0.eot');src: url('../webfonts/2C7C0D_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/2C7C0D_0_0.woff2') format('woff2'),url('../webfonts/2C7C0D_0_0.woff') format('woff'),url('../webfonts/2C7C0D_0_0.ttf') format('truetype');}
 
 
-@font-face {font-family: 'BaskervilleMTStd-Regular';src: url('webfonts/2C7C0D_1_0.eot');src: url('webfonts/2C7C0D_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_1_0.woff2') format('woff2'),url('webfonts/2C7C0D_1_0.woff') format('woff'),url('webfonts/2C7C0D_1_0.ttf') format('truetype');}
+@font-face {font-family: 'BaskervilleMTStd-Regular';src: url('../webfonts/2C7C0D_1_0.eot');src: url('../webfonts/2C7C0D_1_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/2C7C0D_1_0.woff2') format('woff2'),url('../webfonts/2C7C0D_1_0.woff') format('woff'),url('../webfonts/2C7C0D_1_0.ttf') format('truetype');}
 
 
-@font-face {font-family: 'BaskervilleMTStd-Italic';src: url('webfonts/2C7C0D_2_0.eot');src: url('webfonts/2C7C0D_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C7C0D_2_0.woff2') format('woff2'),url('webfonts/2C7C0D_2_0.woff') format('woff'),url('webfonts/2C7C0D_2_0.ttf') format('truetype');}
+@font-face {font-family: 'BaskervilleMTStd-Italic';src: url('../webfonts/2C7C0D_2_0.eot');src: url('../webfonts/2C7C0D_2_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/2C7C0D_2_0.woff2') format('woff2'),url('../webfonts/2C7C0D_2_0.woff') format('woff'),url('../webfonts/2C7C0D_2_0.ttf') format('truetype');}
 
+
+.CenturyGothicStd {
+  font-family: CenturyGothicStd;
+  font-weight: normal;
+  font-style: normal;
+}
+.BaskervilleMTStd-Regular {
+  font-family: BaskervilleMTStd-Regular;
+  font-weight: normal;
+  font-style: normal;
+}
+.BaskervilleMTStd-Italic {
+  font-family: BaskervilleMTStd-Italic;
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 body{
   text-align: center;
   background: url('../img/stowers-flag-bkgd.png') no-repeat top center;
   background-color: @stowers-blue;
+  font-family: BaskervilleMTStd-Italic;
 }
 
 
@@ -60,7 +78,7 @@ body{
       width: 228px;
       height: 30px;
       color: @white;
-      padding-left: 20px;
+      padding-left: 15px;
     }
 
     ::-webkit-input-placeholder { /* WebKit browsers */
@@ -111,6 +129,7 @@ footer{
 
   ul{
     list-style-type: none;
+    padding-left: -67px;
 
     li{
       display: inline-block;
