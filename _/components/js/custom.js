@@ -5,3 +5,8 @@
  * Time: 22:29
  * To change this template use File | Settings | File Templates.
  */
+
+$('.carousel').carousel({
+    interval: false
+});
+
