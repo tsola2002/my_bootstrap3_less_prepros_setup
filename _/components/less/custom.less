@@ -89,9 +89,14 @@ header .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
 }
 
-header .navbar-collapse {
-  background-color: rgba(0,0,0, 0.5);
-}
+@media only screen
+  and (max-width: 768px) {
+    header .navbar-collapse.in {
+      background-color: rgba(0,0,0, 0.5);
+    }
+  }
+
+
 
 img {
   max-width: 200px;
