@@ -1,259 +1,139 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
-/**  Basic Page CSS **/
-body {
-  font-family: "Roboto Slab", sans-serif;
-  font-weight: 300;
-  font-size: 2em;
-  position: relative;
+.sidebar {
+  background-color: #1b294b;
+  height: 1527px;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: 100;
-  margin: 0;
+.sidebar .uber-logo img {
+  width: 100px;
+  margin: 10px 0 0 27px;
 }
-header .navbar {
+.sidebar .profile img {
+  margin-top: 10px;
+  width: 35%;
+  border: 1px solid white;
+}
+.sidebar .side-menu li:hover {
+  color: #ffffff;
+}
+.sidebar .side-menu li a i {
+  color: #10acdc;
+}
+.sidebar .side-menu li a:hover {
+  background-color: #1b294b;
+  color: #ffffff;
+}
+.inbox {
+  border-right: 1px solid #cccccc;
+  padding: 0;
+}
+.inbox .input-group span .btn {
   border-radius: 0;
-  padding: 30px 0;
-  transition: all 0.5s ease-out;
 }
-header .navbar-default {
-  background-color: transparent;
-  border: none;
+.inbox .input-group .form-control {
+  border-radius: 0;
 }
-header .navbar-default .navbar-nav a {
-  color: white;
-  padding: 5px 8px;
+.inbox .mail-list .message-box {
+  padding-bottom: 20px;
+  padding-top: 8px;
+  border-bottom: 1px solid #cccccc;
+  margin: 0px;
 }
-header .navbar-default .navbar-nav a:hover {
-  color: #EEC856;
+.inbox .mail-list .message-box:hover {
+  background-color: #f7f7f9;
+  cursor: pointer;
 }
-header .navbar-default .navbar-nav .active a {
-  font-weight: 700;
-  color: #EEC856;
-  background: transparent;
-  border-bottom: 4px solid #EEC856;
-  text-shadow: none;
+.inbox .mail-list .message-box .left-mail i {
+  padding: 10px 0 0 73px;
+  color: #32d89a;
 }
-header .navbar-default .navbar-nav .active a:hover {
-  color: #E15D5F;
-  background: transparent;
-  text-shadow: none;
+.inbox .mail-list .message-box .right-mail h4 {
+  color: #707e9d;
 }
-header .navbar-brand {
-  background: url(../img/wisdompetlogo.svg);
-  background-repeat: no-repeat;
-  background-position: 15px 0;
-  height: auto;
+.inbox .mail-list .message-box .right-mail h5 {
+  color: #1b294b;
 }
-header .navbar-brand h1 {
-  color: white;
-  margin: 0;
-  font-size: 1.8em;
-  font-weight: 400;
-  padding-left: 105px;
+.inbox .mail-list .message-box .right-mail p {
+  font-size: 10px;
+  color: #707e9d;
 }
-header .navbar-brand span.subhead {
-  display: block;
-  font-family: "Roboto Slab", serif;
-  font-size: .6em;
-  font-weight: 100;
+.inbox .mail-list .message-box .price {
+  padding-top: 12px;
+  padding-left: 4px;
 }
-/**  Navbar Toggle **/
-header .navbar-toggle {
-  background-color: #279182;
+.inbox .mail-list .message-box .price p {
+  font-weight: bold;
+  font-size: 20px;
 }
-header .navbar-default .navbar-toggle .icon-bar {
-  background-color: white;
+.inbox .mail-list .message-box .price .time {
+  padding-top: 69px;
+  font-size: 13px;
+  padding-left: 17px;
 }
-/**  nav inbody **/
-header .inbody {
-  background: rgba(104, 73, 49, 0.9);
+.inbox .mail-list .message-box .price i {
+  color: #ce6a40;
 }
-header .navbar.inbody {
-  padding-top: 0;
-  padding-bottom: 0;
+.details .controls {
+  border-bottom: 1px solid #cccccc;
 }
-header .navbar.inbody .navbar-nav {
-  padding-top: 10px;
+.details .controls .edit a {
+  color: #10acdc;
 }
-header .inbody .navbar-brand {
-  background-size: 43px;
-  background-position: top left;
-  margin-top: 5px;
-  padding-bottom: 0;
-  margin-left: 10px;
+.details .controls .approve a {
+  color: #11cbc2;
 }
-header .inbody .navbar-brand h1 {
-  font-size: 1.1em;
-  padding-left: 38px;
+.details .controls .reject a {
+  color: #f3436f;
 }
-header .inbody .navbar-brand span.subhead {
-  display: none;
-}
-@media only screen and (max-width: 768px) {
-  header .navbar-collapse.in {
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-}
-footer .navbar-default {
-  background: transparent;
-  border: none;
-}
-/**  Page **/
-.page {
-  padding: 50px 0;
-}
-.page h2 {
+.details .controls .link-box {
+  padding: 7px 10px;
   text-align: center;
-  margin-bottom: 30px;
+  border-right: 1px solid #cccccc;
 }
-#mission {
-  background-color: #e4d29d;
-  background-image: linear-gradient(to bottom, #eef08a, #819a2d);
-  border-top: 20px solid rgba(238, 200, 86, 0.5);
+.details .controls .link-box .reject {
+  color: #f3436f;
 }
-/**  Page - services **/
-.service {
-  margin: 20px 0;
-  text-align: center;
+.details .banner .logo-text {
+  font-size: 24px;
+  font-family: "Open Sans";
 }
-#services img.icon {
-  display: block;
-  width: 80px;
-  margin: 0 auto;
-  margin-bottom: 5px;
+.details .uber-logo {
+  padding-bottom: 50px;
 }
-#services h3 {
-  margin-bottom: 10px;
-}
-@media only screen and (min-width: 450px) and (max-width: 768px) {
-  .service p {
-    padding: 0 20%;
-  }
-}
-/**  Page - staff **/
-#staff {
-  background-color: #e4d29d;
-  background-image: linear-gradient(to bottom, #e4d29d, #cdae50);
-}
-.doctor {
-  margin: 10px 0;
-}
-.doctor h3 {
-  font-weight: 600;
-  font-size: 1.2em;
-  color: #6f4e36;
-  margin: 10px 0;
-}
-.doctor p {
-  font-size: .8em;
-}
-.doctor img {
-  width: 100%;
-}
-/**  Page - testimonials **/
-#testimonials {
-  padding: 0;
-}
-#testimonials h2 {
-  display: none;
-}
-#testimonials blockquote {
-  margin: 0;
-  padding: 0;
-  border-left: none;
-  min-height: 500px;
-  position: relative;
-}
-#testimonials blockquote .quote {
-  background-color: rgba(255, 255, 255, 0.6);
-  padding: 20px 5%;
-  position: absolute;
-  bottom: 0;
-  width: 75%;
-  font-weight: 400;
-  border-radius: 0 50px 0 0;
-}
-#testimonials blockquote .quote:hover {
-  background-color: rgba(239, 240, 196, 0.9);
-}
-#testimonials #janeh {
-  background: url(../img/testimonial-janeh.jpg) no-repeat center center;
-  background-size: cover;
-}
-#testimonials #johnb {
-  background: url(../img/testimonial-johnb.jpg) no-repeat center center;
-  background-size: cover;
-}
-#testimonials #mcphersons {
-  background: url(../img/testimonial-mcphersons.jpg) no-repeat center center;
-  background-size: cover;
-}
-#testimonials #lorraines {
-  background: url(../img/testimonial-lorraines.jpg) no-repeat center center;
-  background-size: cover;
-}
-#testimonials .quote {
-  font-size: 1.2em;
-  line-height: 110%;
-  font-weight: 400;
-}
-#testimonials .quote .more,
-#testimonials .customer {
-  opacity: 0;
-  font-size: 0;
-  line-height: 0;
-  padding-top: 10px;
-}
-#testimonials .quote:hover .more {
+.details .uber-logo .expense {
+  color: #cccccc;
   font-family: "Open Sans", sans-serif;
-  font-weight: 100;
-  display: block;
-  opacity: 1;
-  font-size: .8em;
-  line-height: 120%;
 }
-#testimonials .quote:hover .customer {
-  display: block;
-  font-size: .7em;
-  text-align: right;
+.details .itinery {
+  padding-bottom: 50px;
 }
-#testimonials .quote .intro::after {
-  content: '...';
+.details .itinery .it-details {
+  padding-bottom: 20px;
 }
-#testimonials .quote:hover .intro::after {
-  content: '';
+.details .itinery .d-right {
+  margin-left: -33px;
 }
-/**  Footer **/
-footer {
-  background: #586D74;
-  color: white;
-  font-size: .8em;
-  padding: 20px 0 40px 0;
+.details .itinery .d-right small {
+  color: #cccccc;
 }
-footer a {
-  color: #E0E6AE;
+.details .itinery .d-left {
+  padding-left: 52px;
 }
-footer a:hover {
-  color: #EEC856 !important;
+.details .itinery .d-left i {
+  color: #cccccc;
 }
-footer .navbar {
-  margin-bottom: 0;
-  min-height: 0;
+.details .main-tag .tags {
+  border-top: 1px solid #cccccc;
 }
-footer .navbar-default {
-  background-color: transparent;
-  border: none;
-  margin-right: 40px;
+.details .main-tag .tags .left-info p {
+  padding-top: 30px;
+  color: #cccccc;
 }
-footer .navbar-nav > li a {
-  padding-top: 0;
-  padding-bottom: 0;
-  text-decoration: underline;
-  color: #EEC856 !important;
+.details .main-tag .tags .left-info .directions p {
+  color: #32d89a;
+}
+.details .main-tag .tags .right-info {
+  border-left: 1px solid #cccccc;
+}
+.details .main-tag .tags .right-info p {
+  padding-top: 30px;
 }
