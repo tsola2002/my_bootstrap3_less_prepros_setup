@@ -121,6 +121,9 @@
 .details .itinery .d-left i {
   color: #cccccc;
 }
+.details .main-tag {
+  padding-bottom: 50px;
+}
 .details .main-tag .tags {
   border-top: 1px solid #cccccc;
 }
@@ -136,4 +139,11 @@
 }
 .details .main-tag .tags .right-info p {
   padding-top: 30px;
+  color: #cccccc;
+}
+.details .google-maps {
+  padding-bottom: 50px;
+}
+.details .comments .sub-comment {
+  padding-top: 50px;
 }
