@@ -42,9 +42,45 @@
   background-color: #f7f7f9;
   cursor: pointer;
 }
-.inbox .mail-list .message-box .left-mail i {
+.inbox .mail-list .message-box:nth-child(1) i {
   padding: 10px 0 0 73px;
   color: #32d89a;
+}
+.inbox .mail-list .message-box:nth-child(2) i {
+  padding: 10px 0 0 73px;
+  color: #f3436f;
+}
+.inbox .mail-list .message-box:nth-child(3) i {
+  padding: 10px 0 0 73px;
+  color: #000000;
+}
+.inbox .mail-list .message-box:nth-child(4) i {
+  padding: 10px 0 0 73px;
+  color: #ce6a40;
+}
+.inbox .mail-list .message-box:nth-child(5) i {
+  padding: 10px 0 0 73px;
+  color: #10acdc;
+}
+.inbox .mail-list .message-box:nth-child(6) i {
+  padding: 10px 0 0 73px;
+  color: #00843b;
+}
+.inbox .mail-list .message-box:nth-child(7) i {
+  padding: 10px 0 0 73px;
+  color: #f06a4b;
+}
+.inbox .mail-list .message-box:nth-child(8) i {
+  padding: 10px 0 0 73px;
+  color: #668beb;
+}
+.inbox .mail-list .message-box:nth-child(9) i {
+  padding: 10px 0 0 73px;
+  color: #f06a4b;
+}
+.inbox .mail-list .message-box:nth-child(6) i {
+  padding: 10px 0 0 73px;
+  color: #a551d6;
 }
 .inbox .mail-list .message-box .right-mail h4 {
   color: #707e9d;
@@ -65,7 +101,7 @@
   font-size: 20px;
 }
 .inbox .mail-list .message-box .price .time {
-  padding-top: 69px;
+  padding-top: 33px;
   font-size: 13px;
   padding-left: 17px;
 }
@@ -140,6 +176,20 @@
 .details .main-tag .tags .right-info p {
   padding-top: 30px;
   color: #cccccc;
+}
+.details .main-tag .tags .right-info .mini-tags ul li {
+  list-style-type: none;
+  float: left;
+  margin-right: 5px;
+}
+.details .main-tag .tags .right-info .mini-tags ul li:nth-child(1) i {
+  color: #32d89a;
+}
+.details .main-tag .tags .right-info .mini-tags ul li:nth-child(2) i {
+  color: #ce6a40;
+}
+.details .main-tag .tags .right-info .mini-tags ul li:nth-child(3) i {
+  color: #7712dd;
 }
 .details .google-maps {
   padding-bottom: 50px;

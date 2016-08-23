@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b37e10e1-b4f9-404a-be1c-31514a152713" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/fonts/fontawesome-webfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/custom.css" afterPath="$PROJECT_DIR$/_/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/components/less/custom.less" afterPath="$PROJECT_DIR$/_/components/less/custom.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -35,8 +42,8 @@
           <file leaf-file-name="custom.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.45945945" vertical-offset="6321" max-vertical-offset="7056">
-                  <caret line="230" column="8" selection-start-line="230" selection-start-column="8" selection-end-line="230" selection-end-column="8" />
+                <state vertical-scroll-proportion="0.42918456" vertical-offset="3902" max-vertical-offset="7797">
+                  <caret line="174" column="27" selection-start-line="174" selection-start-column="27" selection-end-line="174" selection-end-column="27" />
                   <folding />
                 </state>
               </provider>
@@ -45,9 +52,12 @@
           <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_/css/custom.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="3235" max-vertical-offset="3565">
-                  <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-                  <folding />
+                <state vertical-scroll-proportion="0.0" vertical-offset="4385" max-vertical-offset="4715">
+                  <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+                  <folding>
+                    <marker date="1471936283000" expanded="true" signature="849:876" placeholder="{...}" />
+                    <marker date="1471936283000" expanded="true" signature="1484:1535" placeholder="{...}" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -55,7 +65,7 @@
           <file leaf-file-name="variables.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-4.6" vertical-offset="828" max-vertical-offset="19757">
+                <state vertical-scroll-proportion="0.0" vertical-offset="943" max-vertical-offset="19757">
                   <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
                   <folding />
                 </state>
@@ -69,9 +79,15 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.089147285" vertical-offset="8786" max-vertical-offset="10258">
-                  <caret line="383" column="309" selection-start-line="383" selection-start-column="309" selection-end-line="383" selection-end-column="309" />
+                <state vertical-scroll-proportion="1.6317829" vertical-offset="1672" max-vertical-offset="7521">
+                  <caret line="209" column="56" selection-start-line="209" selection-start-column="56" selection-end-line="209" selection-end-column="56" />
                   <folding>
+                    <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                    <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                    <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                    <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                    <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                    <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                     <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
@@ -112,6 +128,7 @@
         <option value="$PROJECT_DIR$/_/js/custom.js" />
         <option value="$PROJECT_DIR$/_/components/less/variables.less" />
         <option value="$PROJECT_DIR$/_/css/custom.css" />
+        <option value="$PROJECT_DIR$/_/css/font-awesome.css" />
         <option value="$PROJECT_DIR$/_/components/less/custom.less" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -119,8 +136,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="33" />
-    <option name="y" value="286" />
+    <option name="x" value="21" />
+    <option name="y" value="399" />
     <option name="width" value="1366" />
     <option name="height" value="491" />
   </component>
@@ -150,6 +167,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ColorIdeProjectViewPane">
         <subPane>
           <PATH>
@@ -196,13 +214,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -284,17 +301,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_/fonts" />
       <recent name="$PROJECT_DIR$/_/images" />
       <recent name="$PROJECT_DIR$/_/js" />
       <recent name="C:\xampp\htdocs\corporate\_\components" />
       <recent name="C:\xampp\htdocs\b3\_\components\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_/css" />
       <recent name="$PROJECT_DIR$/_/images" />
       <recent name="$PROJECT_DIR$/_/img" />
       <recent name="C:\xampp\htdocs\corporate\_\components" />
       <recent name="C:\xampp\htdocs\b3" />
-      <recent name="C:\xampp\htdocs\b3\_\components\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -312,15 +330,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -352,7 +370,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="286" width="1366" height="491" extended-state="0" />
+    <frame x="21" y="399" width="1366" height="491" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -368,14 +386,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -404,13 +422,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_/components/less/bootstrap.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1288">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="161">
@@ -445,6 +456,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3910">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -491,6 +508,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3910">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -537,6 +560,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3910">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -583,6 +612,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1081">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -629,6 +664,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="459">
           <caret line="5" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -646,6 +687,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -656,6 +703,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -753,7 +806,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6" vertical-offset="828" max-vertical-offset="19757">
+        <state vertical-scroll-proportion="0.0" vertical-offset="943" max-vertical-offset="19757">
           <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
           <folding />
         </state>
@@ -769,25 +822,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3235" max-vertical-offset="3565">
-          <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="4385" max-vertical-offset="4715">
+          <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+          <folding>
+            <marker date="1471936283000" expanded="true" signature="849:876" placeholder="{...}" />
+            <marker date="1471936283000" expanded="true" signature="1484:1535" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64788735" vertical-offset="46" max-vertical-offset="50715">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/less/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45945945" vertical-offset="6321" max-vertical-offset="7056">
-          <caret line="230" column="8" selection-start-line="230" selection-start-column="8" selection-end-line="230" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.42918456" vertical-offset="3902" max-vertical-offset="7797">
+          <caret line="174" column="27" selection-start-line="174" selection-start-column="27" selection-end-line="174" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.089147285" vertical-offset="8786" max-vertical-offset="10258">
-          <caret line="383" column="309" selection-start-line="383" selection-start-column="309" selection-end-line="383" selection-end-column="309" />
+        <state vertical-scroll-proportion="1.6317829" vertical-offset="1672" max-vertical-offset="7521">
+          <caret line="209" column="56" selection-start-line="209" selection-start-column="56" selection-end-line="209" selection-end-column="56" />
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>

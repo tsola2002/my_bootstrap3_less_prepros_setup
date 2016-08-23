@@ -11,6 +11,12 @@
 @hover-color: #f7f7f9;
 @light-blue: #10acdc;
 @reject-red: #f3436f;
+@uber-purple: #7712dd;
+@uber-green2: #00843b;
+@uber-brown2: #f6a651;
+@uber-purple2: #668beb;
+@uber-red2: #f06a4b;
+@uber-purple3: #a551d6;
 
 .sidebar {
   background-color: @uber-blue;
@@ -84,12 +90,68 @@
           background-color: @hover-color;
           cursor: pointer;
         }
-        .left-mail{
+        &:nth-child(1){
           i{
             padding: 10px 0 0 73px;
             color: @uber-green;
           }
         }
+        &:nth-child(2){
+          i{
+            padding: 10px 0 0 73px;
+            color: @reject-red;
+          }
+        }
+        &:nth-child(3){
+          i{
+            padding: 10px 0 0 73px;
+            color: #000000;
+          }
+        }
+        &:nth-child(4){
+          i{
+            padding: 10px 0 0 73px;
+            color: @waiting;
+          }
+        }
+        &:nth-child(5){
+          i{
+            padding: 10px 0 0 73px;
+            color: @icon-color;
+          }
+        }
+        &:nth-child(6){
+          i{
+            padding: 10px 0 0 73px;
+            color: @uber-green2;
+          }
+        }
+        &:nth-child(7){
+          i{
+            padding: 10px 0 0 73px;
+            color: @uber-red2;
+          }
+        }
+        &:nth-child(8){
+          i{
+            padding: 10px 0 0 73px;
+            color: @uber-purple2;
+          }
+        }
+        &:nth-child(9){
+          i{
+            padding: 10px 0 0 73px;
+            color: @uber-red2;
+          }
+        }
+        &:nth-child(6){
+          i{
+            padding: 10px 0 0 73px;
+            color: @uber-purple3;
+          }
+        }
+
+
         .right-mail{
           h4{
             color: @uber-text-color;
@@ -110,7 +172,7 @@
             font-size: 20px;
           }
           .time{
-            padding-top: 69px;
+            padding-top: 33px;
             font-size: 13px;
             padding-left: 17px;
           }
@@ -220,6 +282,31 @@
         p{
           padding-top: 30px;
           color: @uber-grey;
+        }
+        .mini-tags{
+        ul{
+          li{
+            list-style-type: none;
+            float: left;
+            margin-right: 5px;
+              &:nth-child(1){
+                i{
+                  color: @uber-green;
+                }
+              }
+              &:nth-child(2){
+                i{
+                  color: @waiting;
+                }
+              }
+              &:nth-child(3){
+                i{
+                  color: @uber-purple;
+                }
+              }
+
+          }
+        }
         }
       }
     }
